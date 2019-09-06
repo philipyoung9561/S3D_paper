@@ -1,0 +1,314 @@
+\providecommand{\latin}[1]{#1}
+\makeatletter
+\providecommand{\doi}
+  {\begingroup\let\do\@makeother\dospecials
+  \catcode`\{=1 \catcode`\}=2 \doi@aux}
+\providecommand{\doi@aux}[1]{\endgroup\texttt{#1}}
+\makeatother
+\providecommand*\mcitethebibliography{\thebibliography}
+\csname @ifundefined\endcsname{endmcitethebibliography}
+  {\let\endmcitethebibliography\endthebibliography}{}
+\begin{mcitethebibliography}{32}
+\providecommand*\natexlab[1]{#1}
+\providecommand*\mciteSetBstSublistMode[1]{}
+\providecommand*\mciteSetBstMaxWidthForm[2]{}
+\providecommand*\mciteBstWouldAddEndPuncttrue
+  {\def\EndOfBibitem{\unskip.}}
+\providecommand*\mciteBstWouldAddEndPunctfalse
+  {\let\EndOfBibitem\relax}
+\providecommand*\mciteSetBstMidEndSepPunct[3]{}
+\providecommand*\mciteSetBstSublistLabelBeginEnd[3]{}
+\providecommand*\EndOfBibitem{}
+\mciteSetBstSublistMode{f}
+\mciteSetBstMaxWidthForm{subitem}{(\alph{mcitesubitemcount})}
+\mciteSetBstSublistLabelBeginEnd
+  {\mcitemaxwidthsubitemform\space}
+  {\relax}
+  {\relax}
+
+\bibitem[Dror \latin{et~al.}(2012)Dror, Dirks, Grossman, Xu, and
+  Shaw]{MD_simulation}
+Dror,~R.~O.; Dirks,~R.~M.; Grossman,~J.; Xu,~H.; Shaw,~D.~E. Biomolecular
+  Simulation: A Computational Microscope for Molecular Biology. \emph{Annu.
+  Rev. Biophys.} \textbf{2012}, \emph{41}, 429--452, PMID: 22577825\relax
+\mciteBstWouldAddEndPuncttrue
+\mciteSetBstMidEndSepPunct{\mcitedefaultmidpunct}
+{\mcitedefaultendpunct}{\mcitedefaultseppunct}\relax
+\EndOfBibitem
+\bibitem[Lindorff-Larsen \latin{et~al.}(2011)Lindorff-Larsen, Piana, Dror, and
+  Shaw]{DE_Shaw_fast-folding}
+Lindorff-Larsen,~K.; Piana,~S.; Dror,~R.~O.; Shaw,~D.~E. How Fast-Folding
+  Proteins Fold. \emph{Science} \textbf{2011}, \emph{334}, 517--520\relax
+\mciteBstWouldAddEndPuncttrue
+\mciteSetBstMidEndSepPunct{\mcitedefaultmidpunct}
+{\mcitedefaultendpunct}{\mcitedefaultseppunct}\relax
+\EndOfBibitem
+\bibitem[{Shaw} \latin{et~al.}(2014){Shaw}, {Grossman}, {Bank}, {Batson},
+  {Butts}, {Chao}, {Deneroff}, {Dror}, {Even}, {Fenton}, {Forte}, {Gagliardo},
+  {Gill}, {Greskamp}, {Ho}, {Ierardi}, {Iserovich}, {Kuskin}, {Larson},
+  {Layman}, {Lee}, {Lerer}, {Li}, {Killebrew}, {Mackenzie}, {Mok}, {Moraes},
+  {Mueller}, {Nociolo}, {Peticolas}, {Quan}, {Ramot}, {Salmon}, {Scarpazza},
+  {Schafer}, {Siddique}, {Snyder}, {Spengler}, {Tang}, {Theobald}, {Toma},
+  {Towles}, {Vitale}, {Wang}, and {Young}]{Anton}
+{Shaw},~D.~E. \latin{et~al.}  Anton 2: Raising the Bar for Performance and
+  Programmability in a Special-Purpose Molecular Dynamics Supercomputer. SC
+  '14: Proceedings of the International Conference for High Performance
+  Computing, Networking, Storage and Analysis. 2014; pp 41--53\relax
+\mciteBstWouldAddEndPuncttrue
+\mciteSetBstMidEndSepPunct{\mcitedefaultmidpunct}
+{\mcitedefaultendpunct}{\mcitedefaultseppunct}\relax
+\EndOfBibitem
+\bibitem[Rohrdanz \latin{et~al.}(2013)Rohrdanz, Zheng, and
+  Clementi]{Cecilia_reaction_coordinate_review}
+Rohrdanz,~M.~A.; Zheng,~W.; Clementi,~C. Discovering Mountain Passes via
+  Torchlight: Methods for the Definition of Reaction Coordinates and Pathways
+  in Complex Macromolecular Reactions. \emph{Annu. Rev, Phys. Chem.}
+  \textbf{2013}, \emph{64}, 295--316, PMID: 23298245\relax
+\mciteBstWouldAddEndPuncttrue
+\mciteSetBstMidEndSepPunct{\mcitedefaultmidpunct}
+{\mcitedefaultendpunct}{\mcitedefaultseppunct}\relax
+\EndOfBibitem
+\bibitem[Das \latin{et~al.}(2006)Das, Moll, Stamati, Kavraki, and
+  Clementi]{Cecilia_low_dimension}
+Das,~P.; Moll,~M.; Stamati,~H.; Kavraki,~L.~E.; Clementi,~C. Low-dimensional,
+  free-energy landscapes of protein-folding reactions by nonlinear
+  dimensionality reduction. \emph{Proc. Natl. Acad. Sci. U. S. A.}
+  \textbf{2006}, \emph{103}, 9885--9890\relax
+\mciteBstWouldAddEndPuncttrue
+\mciteSetBstMidEndSepPunct{\mcitedefaultmidpunct}
+{\mcitedefaultendpunct}{\mcitedefaultseppunct}\relax
+\EndOfBibitem
+\bibitem[Davtyan \latin{et~al.}(2012)Davtyan, Schafer, Zheng, Clementi,
+  Wolynes, and Papoian]{AWSEM}
+Davtyan,~A.; Schafer,~N.~P.; Zheng,~W.; Clementi,~C.; Wolynes,~P.~G.;
+  Papoian,~G.~A. AWSEM-MD: protein structure prediction using coarse-grained
+  physical potentials and bioinformatically based local structure biasing.
+  \emph{J. Phys. Chem. B} \textbf{2012}, \emph{116}, 8494--8503\relax
+\mciteBstWouldAddEndPuncttrue
+\mciteSetBstMidEndSepPunct{\mcitedefaultmidpunct}
+{\mcitedefaultendpunct}{\mcitedefaultseppunct}\relax
+\EndOfBibitem
+\bibitem[Marrink \latin{et~al.}(2007)Marrink, Risselada, Yefimov, Tieleman, and
+  de~Vries]{MARTINI}
+Marrink,~S.~J.; Risselada,~H.~J.; Yefimov,~S.; Tieleman,~D.~P.; de~Vries,~A.~H.
+  The MARTINI Force Field:  Coarse Grained Model for Biomolecular Simulations.
+  \emph{J. Phys. Chem. B} \textbf{2007}, \emph{111}, 7812 -- 7824\relax
+\mciteBstWouldAddEndPuncttrue
+\mciteSetBstMidEndSepPunct{\mcitedefaultmidpunct}
+{\mcitedefaultendpunct}{\mcitedefaultseppunct}\relax
+\EndOfBibitem
+\bibitem[Saunders and Voth(2013)Saunders, and Voth]{Voth_CG_review}
+Saunders,~M.~G.; Voth,~G.~A. Coarse-Graining Methods for Computational Biology.
+  \emph{Annu. Rev. Biophys.} \textbf{2013}, \emph{42}, 73--93, PMID:
+  23451897\relax
+\mciteBstWouldAddEndPuncttrue
+\mciteSetBstMidEndSepPunct{\mcitedefaultmidpunct}
+{\mcitedefaultendpunct}{\mcitedefaultseppunct}\relax
+\EndOfBibitem
+\bibitem[Noid(2013)]{CG_methods}
+Noid,~W.~G. Perspective: Coarse-grained models for biomolecular systems.
+  \emph{J. Chem. Phys.} \textbf{2013}, \emph{139}, 090901\relax
+\mciteBstWouldAddEndPuncttrue
+\mciteSetBstMidEndSepPunct{\mcitedefaultmidpunct}
+{\mcitedefaultendpunct}{\mcitedefaultseppunct}\relax
+\EndOfBibitem
+\bibitem[Kmiecik \latin{et~al.}(2016)Kmiecik, Gront, Kolinski, Wieteska, Dawid,
+  and Kolinski]{CG_model_review}
+Kmiecik,~S.; Gront,~D.; Kolinski,~M.; Wieteska,~L.; Dawid,~A.~E.; Kolinski,~A.
+  Coarse-Grained Protein Models and Their Applications. \emph{Chem. Rev.}
+  \textbf{2016}, \emph{116}, 7898--7936, PMID: 27333362\relax
+\mciteBstWouldAddEndPuncttrue
+\mciteSetBstMidEndSepPunct{\mcitedefaultmidpunct}
+{\mcitedefaultendpunct}{\mcitedefaultseppunct}\relax
+\EndOfBibitem
+\bibitem[Clementi \latin{et~al.}(2000)Clementi, Nymeyer, and
+  Onuchic]{structure_based_model}
+Clementi,~C.; Nymeyer,~H.; Onuchic,~J.~N. Topological and energetic factors:
+  what determines the structural details of the transition state ensemble and
+  en-route intermediates for protein folding? an investigation for small
+  globular proteins11Edited by F. E. Cohen. \emph{J. Mol. Biol.} \textbf{2000},
+  \emph{298}, 937 -- 953\relax
+\mciteBstWouldAddEndPuncttrue
+\mciteSetBstMidEndSepPunct{\mcitedefaultmidpunct}
+{\mcitedefaultendpunct}{\mcitedefaultseppunct}\relax
+\EndOfBibitem
+\bibitem[Noel \latin{et~al.}(2016)Noel, Levi, Raghunathan, Lammert, Hayes,
+  Onuchic, and Whitford]{SMOG}
+Noel,~J.~K.; Levi,~M.; Raghunathan,~M.; Lammert,~H.; Hayes,~R.~L.;
+  Onuchic,~J.~N.; Whitford,~P.~C. SMOG 2: A Versatile Software Package for
+  Generating Structure-Based Models. \emph{PLOS Comput. Biol.} \textbf{2016},
+  \emph{12}, 1--14\relax
+\mciteBstWouldAddEndPuncttrue
+\mciteSetBstMidEndSepPunct{\mcitedefaultmidpunct}
+{\mcitedefaultendpunct}{\mcitedefaultseppunct}\relax
+\EndOfBibitem
+\bibitem[Boninsegna \latin{et~al.}(2018)Boninsegna, Banisch, and
+  Clementi]{Lrenzo_S3D}
+Boninsegna,~L.; Banisch,~R.; Clementi,~C. A Data-Driven Perspective on the
+  Hierarchical Assembly of Molecular Structures. \emph{J. Chem. Theory Comput.}
+  \textbf{2018}, \emph{14}, 453--460, PMID: 29207235\relax
+\mciteBstWouldAddEndPuncttrue
+\mciteSetBstMidEndSepPunct{\mcitedefaultmidpunct}
+{\mcitedefaultendpunct}{\mcitedefaultseppunct}\relax
+\EndOfBibitem
+\bibitem[Perez-Hernandez \latin{et~al.}(2013)Perez-Hernandez, Paul, Giorgino,
+  De~Fabritiis, and Noe]{TICA}
+Perez-Hernandez,~G.; Paul,~F.; Giorgino,~T.; De~Fabritiis,~G.; Noe,~F.
+  Identification of slow molecular order parameters for Markov model
+  construction. \emph{J. Chem. Phys.} \textbf{2013}, \emph{139}, 015102\relax
+\mciteBstWouldAddEndPuncttrue
+\mciteSetBstMidEndSepPunct{\mcitedefaultmidpunct}
+{\mcitedefaultendpunct}{\mcitedefaultseppunct}\relax
+\EndOfBibitem
+\bibitem[Noe \latin{et~al.}(2016)Noe, Banisch, and Clementi]{TICA_commute_map}
+Noe,~F.; Banisch,~R.; Clementi,~C. Commute Maps: Separating Slowly Mixing
+  Molecular Configurations for Kinetic Modeling. \emph{J. Chem. Theory and
+  Comput.} \textbf{2016}, \emph{12}, 5620--5630, PMID: 27696838\relax
+\mciteBstWouldAddEndPuncttrue
+\mciteSetBstMidEndSepPunct{\mcitedefaultmidpunct}
+{\mcitedefaultendpunct}{\mcitedefaultseppunct}\relax
+\EndOfBibitem
+\bibitem[Noe and Clementi(2017)Noe, and Clementi]{TICA_collective_variable}
+Noe,~F.; Clementi,~C. Collective variables for the study of long-time kinetics
+  from molecular trajectories: theory and methods. \emph{Curr. Opin. Struct.
+  Biol.} \textbf{2017}, \emph{43}, 141 -- 147\relax
+\mciteBstWouldAddEndPuncttrue
+\mciteSetBstMidEndSepPunct{\mcitedefaultmidpunct}
+{\mcitedefaultendpunct}{\mcitedefaultseppunct}\relax
+\EndOfBibitem
+\bibitem[Prinz \latin{et~al.}(2011)Prinz, Wu, Sarich, Keller, Senne, Held,
+  Chodera, SchÃŒtte, and Noe]{MSM}
+Prinz,~J.-H.; Wu,~H.; Sarich,~M.; Keller,~B.; Senne,~M.; Held,~M.;
+  Chodera,~J.~D.; SchÃŒtte,~C.; Noe,~F. Markov models of molecular kinetics:
+  Generation and validation. \emph{J. Chem. Phys.} \textbf{2011}, \emph{134},
+  174105\relax
+\mciteBstWouldAddEndPuncttrue
+\mciteSetBstMidEndSepPunct{\mcitedefaultmidpunct}
+{\mcitedefaultendpunct}{\mcitedefaultseppunct}\relax
+\EndOfBibitem
+\bibitem[Sarich \latin{et~al.}(2014)Sarich, Banisch, Hartmann, and
+  Schütte]{HMM}
+Sarich,~M.; Banisch,~R.; Hartmann,~C.; Schütte,~C. Markov State Models for
+  Rare Events in Molecular Dynamics. \emph{Entropy} \textbf{2014}, \emph{16},
+  258--286\relax
+\mciteBstWouldAddEndPuncttrue
+\mciteSetBstMidEndSepPunct{\mcitedefaultmidpunct}
+{\mcitedefaultendpunct}{\mcitedefaultseppunct}\relax
+\EndOfBibitem
+\bibitem[Nadler \latin{et~al.}(2005)Nadler, Lafon, Coifman, and
+  Kevrekidis]{diffusion_map_clustering}
+Nadler,~B.; Lafon,~S.; Coifman,~R.~R.; Kevrekidis,~I.~G. Diffusion Maps,
+  Spectral Clustering and Eigenfunctions of Fokker-Planck Operators.
+  Proceedings of the 18th International Conference on Neural Information
+  Processing Systems. Cambridge, MA, USA, 2005; pp 955--962\relax
+\mciteBstWouldAddEndPuncttrue
+\mciteSetBstMidEndSepPunct{\mcitedefaultmidpunct}
+{\mcitedefaultendpunct}{\mcitedefaultseppunct}\relax
+\EndOfBibitem
+\bibitem[Coifman and Lafon(2006)Coifman, and Lafon]{diffusion_map}
+Coifman,~R.~R.; Lafon,~S. Diffusion maps. \emph{Appl. Comput. Harm. Anal.}
+  \textbf{2006}, \emph{21}, 5 -- 30, Special Issue: Diffusion Maps and
+  Wavelets\relax
+\mciteBstWouldAddEndPuncttrue
+\mciteSetBstMidEndSepPunct{\mcitedefaultmidpunct}
+{\mcitedefaultendpunct}{\mcitedefaultseppunct}\relax
+\EndOfBibitem
+\bibitem[Zheng \latin{et~al.}(2016)Zheng, Borgia, Buholzer, Grishaev, Schuler,
+  and Best]{ACTR}
+Zheng,~W.; Borgia,~A.; Buholzer,~K.; Grishaev,~A.; Schuler,~B.; Best,~R.~B.
+  Probing the Action of Chemical Denaturant on an Intrinsically Disordered
+  Protein by Simulation and Experiment. \emph{J. Am. Chem. Soc.} \textbf{2016},
+  \emph{138}, 11702--11713, PMID: 27583687\relax
+\mciteBstWouldAddEndPuncttrue
+\mciteSetBstMidEndSepPunct{\mcitedefaultmidpunct}
+{\mcitedefaultendpunct}{\mcitedefaultseppunct}\relax
+\EndOfBibitem
+\bibitem[Vancraenenbroeck \latin{et~al.}(2019)Vancraenenbroeck, Harel, Zheng,
+  and Hofmann]{MYC}
+Vancraenenbroeck,~R.; Harel,~Y.~S.; Zheng,~W.; Hofmann,~H. Polymer Effects
+  Modulate Binding Affinities in Disordered Proteins. \emph{Proc. Natl. Acad.
+  Sci. U. S. A.} \textbf{2019}, submitted\relax
+\mciteBstWouldAddEndPuncttrue
+\mciteSetBstMidEndSepPunct{\mcitedefaultmidpunct}
+{\mcitedefaultendpunct}{\mcitedefaultseppunct}\relax
+\EndOfBibitem
+\bibitem[Hom \latin{et~al.}(2005)Hom, Lassila, Thomas, and Mayo]{UVF_earlier}
+Hom,~G.~K.; Lassila,~J.~K.; Thomas,~L.~M.; Mayo,~S.~L. Dioxane contributes to
+  the altered conformation and oligomerization state of a designed engrailed
+  homeodomain variant. \emph{Protein Sci.} \textbf{2005}, \emph{14},
+  1115--1119\relax
+\mciteBstWouldAddEndPuncttrue
+\mciteSetBstMidEndSepPunct{\mcitedefaultmidpunct}
+{\mcitedefaultendpunct}{\mcitedefaultseppunct}\relax
+\EndOfBibitem
+\bibitem[Shah \latin{et~al.}(2007)Shah, Hom, Ross, Lassila, Crowhurst, and
+  Mayo]{UVF_origin}
+Shah,~P.~S.; Hom,~G.~K.; Ross,~S.~A.; Lassila,~J.~K.; Crowhurst,~K.~A.;
+  Mayo,~S.~L. Full-sequence Computational Design and Solution Structure of a
+  Thermostable Protein Variant. \emph{J. Mol. Biol.} \textbf{2007}, \emph{372},
+  1 -- 6\relax
+\mciteBstWouldAddEndPuncttrue
+\mciteSetBstMidEndSepPunct{\mcitedefaultmidpunct}
+{\mcitedefaultendpunct}{\mcitedefaultseppunct}\relax
+\EndOfBibitem
+\bibitem[Walsh \latin{et~al.}(1999)Walsh, Cheng, Bryson, Roder, and
+  DeGrado]{A3D_de_novo}
+Walsh,~S. T.~R.; Cheng,~H.; Bryson,~J.~W.; Roder,~H.; DeGrado,~W.~F. Solution
+  structure and dynamics of a de novo designed three-helix bundle protein.
+  \emph{Proc. Natl. Acad. Sci. U. S. A.} \textbf{1999}, \emph{96},
+  5486--5491\relax
+\mciteBstWouldAddEndPuncttrue
+\mciteSetBstMidEndSepPunct{\mcitedefaultmidpunct}
+{\mcitedefaultendpunct}{\mcitedefaultseppunct}\relax
+\EndOfBibitem
+\bibitem[Zhu \latin{et~al.}(2003)Zhu, Alonso, Maki, Huang, Lahr, Daggett,
+  Roder, DeGrado, and Gai]{A3D_fast_folder}
+Zhu,~Y.; Alonso,~D. O.~V.; Maki,~K.; Huang,~C.-Y.; Lahr,~S.~J.; Daggett,~V.;
+  Roder,~H.; DeGrado,~W.~F.; Gai,~F. Ultrafast folding of alpha3D: A de novo
+  designed three-helix bundle protein. \emph{Proc. Natl. Acad. Sci. U. S. A.}
+  \textbf{2003}, \emph{100}, 15486--15491\relax
+\mciteBstWouldAddEndPuncttrue
+\mciteSetBstMidEndSepPunct{\mcitedefaultmidpunct}
+{\mcitedefaultendpunct}{\mcitedefaultseppunct}\relax
+\EndOfBibitem
+\bibitem[Best \latin{et~al.}(2013)Best, Hummer, and Eaton]{A3D_frustration}
+Best,~R.~B.; Hummer,~G.; Eaton,~W.~A. Native contacts determine protein folding
+  mechanisms in atomistic simulations. \emph{Proc. Natl. Acad. Sci. U. S. A.}
+  \textbf{2013}, \emph{110}, 17874--17879\relax
+\mciteBstWouldAddEndPuncttrue
+\mciteSetBstMidEndSepPunct{\mcitedefaultmidpunct}
+{\mcitedefaultendpunct}{\mcitedefaultseppunct}\relax
+\EndOfBibitem
+\bibitem[Chen \latin{et~al.}(2019)Chen, Schafer, Wolynes, and
+  Clementi]{Justin_frustration}
+Chen,~J.; Schafer,~N.~P.; Wolynes,~P.~G.; Clementi,~C. Localizing Frustration
+  in Proteins Using All-Atom Energy Functions. \emph{J. Phys. Chem. B}
+  \textbf{2019}, \emph{123}, 4497--4504, PMID: 31063375\relax
+\mciteBstWouldAddEndPuncttrue
+\mciteSetBstMidEndSepPunct{\mcitedefaultmidpunct}
+{\mcitedefaultendpunct}{\mcitedefaultseppunct}\relax
+\EndOfBibitem
+\bibitem[Dunker \latin{et~al.}(2001)Dunker, Lawson, Brown, Williams, Romero,
+  Oh, Oldfield, Campen, Ratliff, Hipps, Ausio, Nissen, Reeves, Kang, Kissinger,
+  Bailey, Griswold, Chiu, Garner, and Obradovic]{IDP}
+Dunker,~A. \latin{et~al.}  Intrinsically disordered protein. \emph{J. Mol.
+  Graph.} \textbf{2001}, \emph{19}, 26 -- 59\relax
+\mciteBstWouldAddEndPuncttrue
+\mciteSetBstMidEndSepPunct{\mcitedefaultmidpunct}
+{\mcitedefaultendpunct}{\mcitedefaultseppunct}\relax
+\EndOfBibitem
+\bibitem[Tompa(2012)]{IDP_TOMPA}
+Tompa,~P. Intrinsically disordered proteins: a 10-year recap. \emph{Trends
+  Biochem. Sci.} \textbf{2012}, \emph{37}, 509 -- 516\relax
+\mciteBstWouldAddEndPuncttrue
+\mciteSetBstMidEndSepPunct{\mcitedefaultmidpunct}
+{\mcitedefaultendpunct}{\mcitedefaultseppunct}\relax
+\EndOfBibitem
+\bibitem[Uversky(2013)]{IDP_dynamics}
+Uversky,~V.~N. Unusual biophysics of intrinsically disordered proteins.
+  \emph{BBA-Proteins Proteom.} \textbf{2013}, \emph{1834}, 932 -- 951\relax
+\mciteBstWouldAddEndPuncttrue
+\mciteSetBstMidEndSepPunct{\mcitedefaultmidpunct}
+{\mcitedefaultendpunct}{\mcitedefaultseppunct}\relax
+\EndOfBibitem
+\end{mcitethebibliography}

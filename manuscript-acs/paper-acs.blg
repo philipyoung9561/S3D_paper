@@ -1,0 +1,54 @@
+This is BibTeX, Version 0.99d (TeX Live 2018)
+Capacity: max_strings=100000, hash_size=100000, hash_prime=85009
+The top-level auxiliary file: paper-acs.aux
+The style file: achemso.bst
+Reallocated singl_function (elt_size=4) to 100 items from 50.
+Database file #1: acs-paper-acs.bib
+Database file #2: bib.bib
+You're missing a field name---line 570 of file bib.bib
+ : abstract = {Abstract Small-angle X-ray scattering (SAXS) was used to characterize the bacteriophage Î» N protein, a 107 residue intrinsically disordered protein (IDP) that functions as a transcriptional antitermination factor. The SAXS data were used to estimate both the average radius of gyration and the fractal dimension, a measure of the protein's internal scaling properties, under a variety of solution conditions. In the absence of denaturants, the radius of gyration was 38 Â± 3.5 Ã and the fractal dimension was 1.76 Â± 0.05, slightly larger than the value predicted for a well-solvated polymer with excluded volume (1.7). Neither the radius of gyration nor the fractal dimension changed significantly on the addition of urea, further indicating that the protein is extensively unfolded and well solvated in the absence of denaturant. The addition of NaCl or D2O was found to promote aggregation, but did not appear to affect the properties of the monomeric form. The experimental SAXS profiles were also compared with those predicted by a computational model for a random-coil polypeptide, with an adjustable solvation energy term. The experimental data were well fit to the model with the solvation energy close to zero. These results indicate that the Î» N protein is among the more expanded members of the broad class of IDPs, most likely because of its high content of charged residues and a large net charge (+15 at neutral pH). The expanded nature of the conformational ensemble may play a role in facilitating the interactions of the protein with other components of the dynamic transcriptional complex.},
+ :                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                   ,
+I'm skipping whatever remains of this entry
+achemso 2018/02/05 v3.11a
+You've used 32 entries,
+            2536 wiz_defined-function locations,
+            1039 strings with 16512 characters,
+and the built_in function-call counts, 13267 in all, are:
+= -- 1032
+> -- 907
+< -- 12
++ -- 346
+- -- 314
+* -- 1474
+:= -- 1779
+add.period$ -- 64
+call.type$ -- 32
+change.case$ -- 4
+chr.to.int$ -- 2
+cite$ -- 32
+duplicate$ -- 681
+empty$ -- 820
+format.name$ -- 348
+if$ -- 2543
+int.to.chr$ -- 0
+int.to.str$ -- 1
+missing$ -- 0
+newline$ -- 214
+num.names$ -- 93
+pop$ -- 62
+preamble$ -- 1
+purify$ -- 0
+quote$ -- 0
+skip$ -- 32
+stack$ -- 0
+substring$ -- 764
+swap$ -- 862
+text.length$ -- 64
+text.prefix$ -- 0
+top$ -- 1
+type$ -- 221
+warning$ -- 0
+while$ -- 124
+width$ -- 0
+write$ -- 438
+(There was 1 error message)
