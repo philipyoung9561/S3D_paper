@@ -1,15 +1,53 @@
-\begin{thebibliography}{1}
+\begin{thebibliography}{10}
+
+\bibitem{Lrenzo_S3D}
+L.~Boninsegna, R.~Banisch, C.~Clementi, {\it J. Chem. Theory Comput.\/} {\bf
+  14}, 453 (2018). PMID: 29207235.
+
+\bibitem{TICA}
+G.~Perez-Hernandez, F.~Paul, T.~Giorgino, G.~De~Fabritiis, F.~Noe, {\it J.
+  Chem. Phys.\/} {\bf 139}, 015102 (2013).
+
+\bibitem{variational_approach}
+F.~Nüske, B.~G. Keller, G.~Perez-Hernandez, A.~S. J.~S. Mey, F.~Noe, {\it J.
+  Chem. Theory and Comput.\/} {\bf 10}, 1739 (2014). PMID: 26580382.
+
+\bibitem{variational_principle}
+F.~Noe, F.~Nüske, {\it Multiscale Model. Simul.\/} {\bf 11}, 635 (2013).
+
+\bibitem{TICA_collective_variable}
+F.~Noe, C.~Clementi, {\it Curr. Opin. Struct. Biol.\/} {\bf 43}, 141  (2017).
+
+\bibitem{TICA_commute_map}
+F.~Noe, R.~Banisch, C.~Clementi, {\it J. Chem. Theory and Comput.\/} {\bf 12},
+  5620 (2016). PMID: 27696838.
+
+\bibitem{MSM}
+J.-H. Prinz, {\it et~al.\/}, {\it J. Chem. Phys.\/} {\bf 134}, 174105 (2011).
+
+\bibitem{HMM}
+M.~Sarich, R.~Banisch, C.~Hartmann, C.~Schütte, {\it Entropy\/} {\bf 16}, 258
+  (2014).
+
+\bibitem{diffusion_map}
+R.~R. Coifman, S.~Lafon, {\it Appl. Comput. Harm. Anal.\/} {\bf 21}, 5  (2006).
+  Special Issue: Diffusion Maps and Wavelets.
+
+\bibitem{diffusion_map_clustering}
+B.~Nadler, S.~Lafon, R.~R. Coifman, I.~G. Kevrekidis, {\it Proceedings of the
+  18th International Conference on Neural Information Processing Systems\/},
+  NIPS'05 (MIT Press, Cambridge, MA, USA, 2005), pp. 955--962.
 
 \bibitem{A3D_frustration}
-R.~B. Best, G.~Hummer, W.~A. Eaton, {\it Proceedings of the National Academy of
-  Sciences\/} {\bf 110}, 17874 (2013).
+R.~B. Best, G.~Hummer, W.~A. Eaton, {\it Proc. Natl. Acad. Sci. U. S. A.\/}
+  {\bf 110}, 17874 (2013).
 
 \bibitem{ACTR}
-W.~Zheng, {\it et~al.\/}, {\it Journal of the American Chemical Society\/} {\bf
-  138}, 11702 (2016). PMID: 27583687.
+W.~Zheng, {\it et~al.\/}, {\it J. Am. Chem. Soc.\/} {\bf 138}, 11702 (2016).
+  PMID: 27583687.
 
 \bibitem{MYC}
-R.~Vancraenenbroeck, Y.~S. Harel, W.~Zheng, H.~Hofmann, {\it Proceedings of the
-  National Academy of Sciences\/}  (2019). Submitted.
+R.~Vancraenenbroeck, Y.~S. Harel, W.~Zheng, H.~Hofmann, {\it Proc. Natl. Acad.
+  Sci. U. S. A.\/}  (2019). Submitted.
 
 \end{thebibliography}

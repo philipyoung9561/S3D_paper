@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.19 (TeX Live 2018) (preloaded format=pdflatex 2018.4.16)  19 JUL 2019 11:14
+This is pdfTeX, Version 3.14159265-2.6-1.40.19 (TeX Live 2018) (preloaded format=pdflatex 2018.4.16)  9 SEP 2019 10:03
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -385,49 +385,48 @@ LaTeX Font Info:    Try loading font information for U+msb on input line 48.
 (/usr/local/texlive/2018/texmf-dist/tex/latex/amsfonts/umsb.fd
 File: umsb.fd 2013/01/14 v3.01 AMS symbols B
 )
-Overfull \hbox (54.88745pt too wide) in paragraph at lines 48--48
+Overfull \hbox (21.59613pt too wide) in paragraph at lines 48--48
  [][] 
  []
 
 [1
 
 {/usr/local/texlive/2018/texmf-var/fonts/map/pdftex/updmap/pdftex.map}]
-<CLN025_state_0.png, id=15, 513.92pt x 513.92pt>
+[2]
+<CLN025_state_0.png, id=22, 513.92pt x 513.92pt>
 File: CLN025_state_0.png Graphic file (type png)
 <use CLN025_state_0.png>
-Package pdftex.def Info: CLN025_state_0.png  used on input line 64.
+Package pdftex.def Info: CLN025_state_0.png  used on input line 109.
 (pdftex.def)             Requested size: 133.07489pt x 133.07495pt.
-<CLN025_clustering_result_state_1.pdf, id=17, 693.59125pt x 75.70659pt>
+<CLN025_clustering_result_state_1.pdf, id=24, 693.59125pt x 75.70659pt>
 File: CLN025_clustering_result_state_1.pdf Graphic file (type pdf)
 <use CLN025_clustering_result_state_1.pdf>
 Package pdftex.def Info: CLN025_clustering_result_state_1.pdf  used on input li
-ne 64.
+ne 109.
 (pdftex.def)             Requested size: 310.50357pt x 33.8932pt.
 
-Overfull \hbox (7.83324pt too wide) in paragraph at lines 64--64
+Overfull \hbox (7.83324pt too wide) in paragraph at lines 109--109
  [][] 
  []
 
-<CLN025_state_1.png, id=18, 513.92pt x 513.92pt>
+<CLN025_state_1.png, id=25, 513.92pt x 513.92pt>
 File: CLN025_state_1.png Graphic file (type png)
 <use CLN025_state_1.png>
-Package pdftex.def Info: CLN025_state_1.png  used on input line 67.
+Package pdftex.def Info: CLN025_state_1.png  used on input line 112.
 (pdftex.def)             Requested size: 133.07489pt x 133.07495pt.
-<CLN025_clustering_result_state_2.pdf, id=20, 693.59125pt x 75.70659pt>
+<CLN025_clustering_result_state_2.pdf, id=27, 693.59125pt x 75.70659pt>
 File: CLN025_clustering_result_state_2.pdf Graphic file (type pdf)
 <use CLN025_clustering_result_state_2.pdf>
 Package pdftex.def Info: CLN025_clustering_result_state_2.pdf  used on input li
-ne 67.
+ne 112.
 (pdftex.def)             Requested size: 310.50357pt x 33.8932pt.
 
-Overfull \hbox (7.83324pt too wide) in paragraph at lines 67--67
+Overfull \hbox (7.83324pt too wide) in paragraph at lines 112--112
  [][] 
  []
 
-[2
-
- <./CLN025_state_0.png> <./CLN025_state_1.png> <./CLN025_clustering_result_stat
-e_1.pdf
+[3 <./CLN025_state_0.png> <./CLN025_state_1.png> <./CLN025_clustering_result_st
+ate_1.pdf
 
 pdfTeX warning: pdflatex (file ./CLN025_clustering_result_state_1.pdf): PDF inc
 lusion: multiple pdfs with page group included in a single page
@@ -436,55 +435,55 @@ lusion: multiple pdfs with page group included in a single page
 pdfTeX warning: pdflatex (file ./CLN025_clustering_result_state_2.pdf): PDF inc
 lusion: multiple pdfs with page group included in a single page
 >]
-<2JOF_state_0.png, id=77, 1427.3325pt x 1427.3325pt>
+<2JOF_state_0.png, id=84, 1427.3325pt x 1427.3325pt>
 File: 2JOF_state_0.png Graphic file (type png)
 <use 2JOF_state_0.png>
-Package pdftex.def Info: 2JOF_state_0.png  used on input line 79.
+Package pdftex.def Info: 2JOF_state_0.png  used on input line 124.
 (pdftex.def)             Requested size: 133.07489pt x 133.06767pt.
-<2JOF_clustering_result_state_1.pdf, id=80, 693.59125pt x 75.70659pt>
+<2JOF_clustering_result_state_1.pdf, id=87, 693.59125pt x 75.70659pt>
 File: 2JOF_clustering_result_state_1.pdf Graphic file (type pdf)
 <use 2JOF_clustering_result_state_1.pdf>
 Package pdftex.def Info: 2JOF_clustering_result_state_1.pdf  used on input line
- 79.
+ 124.
 (pdftex.def)             Requested size: 310.50357pt x 33.8932pt.
 
-Overfull \hbox (7.83324pt too wide) in paragraph at lines 79--79
+Overfull \hbox (7.83324pt too wide) in paragraph at lines 124--124
  [][] 
  []
 
-<2JOF_state_1.png, id=81, 1427.3325pt x 1427.3325pt>
+<2JOF_state_1.png, id=88, 1427.3325pt x 1427.3325pt>
 File: 2JOF_state_1.png Graphic file (type png)
 <use 2JOF_state_1.png>
-Package pdftex.def Info: 2JOF_state_1.png  used on input line 82.
+Package pdftex.def Info: 2JOF_state_1.png  used on input line 127.
 (pdftex.def)             Requested size: 133.07489pt x 133.06767pt.
-<2JOF_clustering_result_state_2.pdf, id=83, 693.59125pt x 75.70659pt>
+<2JOF_clustering_result_state_2.pdf, id=90, 693.59125pt x 75.70659pt>
 File: 2JOF_clustering_result_state_2.pdf Graphic file (type pdf)
 <use 2JOF_clustering_result_state_2.pdf>
 Package pdftex.def Info: 2JOF_clustering_result_state_2.pdf  used on input line
- 82.
+ 127.
 (pdftex.def)             Requested size: 310.50357pt x 33.8932pt.
 
-Overfull \hbox (7.83324pt too wide) in paragraph at lines 82--82
+Overfull \hbox (7.83324pt too wide) in paragraph at lines 127--127
  [][] 
  []
 
-<2JOF_state_2.png, id=84, 1427.3325pt x 1427.3325pt>
+<2JOF_state_2.png, id=91, 1427.3325pt x 1427.3325pt>
 File: 2JOF_state_2.png Graphic file (type png)
 <use 2JOF_state_2.png>
-Package pdftex.def Info: 2JOF_state_2.png  used on input line 85.
+Package pdftex.def Info: 2JOF_state_2.png  used on input line 130.
 (pdftex.def)             Requested size: 133.07489pt x 133.06767pt.
-<2JOF_clustering_result_state_3.pdf, id=86, 693.59125pt x 75.70659pt>
+<2JOF_clustering_result_state_3.pdf, id=93, 693.59125pt x 75.70659pt>
 File: 2JOF_clustering_result_state_3.pdf Graphic file (type pdf)
 <use 2JOF_clustering_result_state_3.pdf>
 Package pdftex.def Info: 2JOF_clustering_result_state_3.pdf  used on input line
- 85.
+ 130.
 (pdftex.def)             Requested size: 310.50357pt x 33.8932pt.
 
-Overfull \hbox (7.83324pt too wide) in paragraph at lines 85--85
+Overfull \hbox (7.83324pt too wide) in paragraph at lines 130--130
  [][] 
  []
 
-[3
+[4
 
  <./2JOF_state_0.png> <./2JOF_state_1.png> <./2JOF_state_2.png> <./2JOF_cluster
 ing_result_state_1.pdf> <./2JOF_clustering_result_state_2.pdf
@@ -496,39 +495,39 @@ sion: multiple pdfs with page group included in a single page
 pdfTeX warning: pdflatex (file ./2JOF_clustering_result_state_3.pdf): PDF inclu
 sion: multiple pdfs with page group included in a single page
 >]
-<1FME_state_0.png, id=175, 1427.3325pt x 1427.3325pt>
+<1FME_state_0.png, id=182, 1427.3325pt x 1427.3325pt>
 File: 1FME_state_0.png Graphic file (type png)
 <use 1FME_state_0.png>
-Package pdftex.def Info: 1FME_state_0.png  used on input line 97.
+Package pdftex.def Info: 1FME_state_0.png  used on input line 142.
 (pdftex.def)             Requested size: 133.07489pt x 133.06767pt.
-<1FME_clustering_result_state_1.pdf, id=177, 698.3141pt x 75.70659pt>
+<1FME_clustering_result_state_1.pdf, id=184, 698.3141pt x 75.70659pt>
 File: 1FME_clustering_result_state_1.pdf Graphic file (type pdf)
 <use 1FME_clustering_result_state_1.pdf>
 Package pdftex.def Info: 1FME_clustering_result_state_1.pdf  used on input line
- 97.
+ 142.
 (pdftex.def)             Requested size: 310.50357pt x 33.66331pt.
 
-Overfull \hbox (7.83324pt too wide) in paragraph at lines 97--97
+Overfull \hbox (7.83324pt too wide) in paragraph at lines 142--142
  [][] 
  []
 
-<1FME_state_1.png, id=178, 1427.3325pt x 1427.3325pt>
+<1FME_state_1.png, id=185, 1427.3325pt x 1427.3325pt>
 File: 1FME_state_1.png Graphic file (type png)
 <use 1FME_state_1.png>
-Package pdftex.def Info: 1FME_state_1.png  used on input line 100.
+Package pdftex.def Info: 1FME_state_1.png  used on input line 145.
 (pdftex.def)             Requested size: 133.07489pt x 133.06767pt.
-<1FME_clustering_result_state_2.pdf, id=180, 698.3141pt x 75.70659pt>
+<1FME_clustering_result_state_2.pdf, id=187, 698.3141pt x 75.70659pt>
 File: 1FME_clustering_result_state_2.pdf Graphic file (type pdf)
 <use 1FME_clustering_result_state_2.pdf>
 Package pdftex.def Info: 1FME_clustering_result_state_2.pdf  used on input line
- 100.
+ 145.
 (pdftex.def)             Requested size: 310.50357pt x 33.66331pt.
 
-Overfull \hbox (7.83324pt too wide) in paragraph at lines 100--100
+Overfull \hbox (7.83324pt too wide) in paragraph at lines 145--145
  [][] 
  []
 
-[4
+[5
 
  <./1FME_state_0.png> <./1FME_state_1.png> <./1FME_clustering_result_state_1.pd
 f> <./1FME_clustering_result_state_2.pdf
@@ -536,55 +535,55 @@ f> <./1FME_clustering_result_state_2.pdf
 pdfTeX warning: pdflatex (file ./1FME_clustering_result_state_2.pdf): PDF inclu
 sion: multiple pdfs with page group included in a single page
 >]
-<2F4K_state_0.png, id=237, 1427.3325pt x 1427.3325pt>
+<2F4K_state_0.png, id=244, 1427.3325pt x 1427.3325pt>
 File: 2F4K_state_0.png Graphic file (type png)
 <use 2F4K_state_0.png>
-Package pdftex.def Info: 2F4K_state_0.png  used on input line 112.
+Package pdftex.def Info: 2F4K_state_0.png  used on input line 157.
 (pdftex.def)             Requested size: 133.07489pt x 133.06767pt.
-<2F4K_clustering_result_state_1.pdf, id=239, 693.59125pt x 75.70659pt>
+<2F4K_clustering_result_state_1.pdf, id=246, 693.59125pt x 75.70659pt>
 File: 2F4K_clustering_result_state_1.pdf Graphic file (type pdf)
 <use 2F4K_clustering_result_state_1.pdf>
 Package pdftex.def Info: 2F4K_clustering_result_state_1.pdf  used on input line
- 112.
+ 157.
 (pdftex.def)             Requested size: 310.50357pt x 33.8932pt.
 
-Overfull \hbox (7.83324pt too wide) in paragraph at lines 112--112
+Overfull \hbox (7.83324pt too wide) in paragraph at lines 157--157
  [][] 
  []
 
-<2F4K_state_1.png, id=240, 1427.3325pt x 1427.3325pt>
+<2F4K_state_1.png, id=247, 1427.3325pt x 1427.3325pt>
 File: 2F4K_state_1.png Graphic file (type png)
 <use 2F4K_state_1.png>
-Package pdftex.def Info: 2F4K_state_1.png  used on input line 115.
+Package pdftex.def Info: 2F4K_state_1.png  used on input line 160.
 (pdftex.def)             Requested size: 133.07489pt x 133.06767pt.
-<2F4K_clustering_result_state_2.pdf, id=242, 693.59125pt x 75.70659pt>
+<2F4K_clustering_result_state_2.pdf, id=249, 693.59125pt x 75.70659pt>
 File: 2F4K_clustering_result_state_2.pdf Graphic file (type pdf)
 <use 2F4K_clustering_result_state_2.pdf>
 Package pdftex.def Info: 2F4K_clustering_result_state_2.pdf  used on input line
- 115.
+ 160.
 (pdftex.def)             Requested size: 310.50357pt x 33.8932pt.
 
-Overfull \hbox (7.83324pt too wide) in paragraph at lines 115--115
+Overfull \hbox (7.83324pt too wide) in paragraph at lines 160--160
  [][] 
  []
 
-<2F4K_state_2.png, id=243, 1427.3325pt x 1427.3325pt>
+<2F4K_state_2.png, id=250, 1427.3325pt x 1427.3325pt>
 File: 2F4K_state_2.png Graphic file (type png)
 <use 2F4K_state_2.png>
-Package pdftex.def Info: 2F4K_state_2.png  used on input line 118.
+Package pdftex.def Info: 2F4K_state_2.png  used on input line 163.
 (pdftex.def)             Requested size: 133.07489pt x 133.06767pt.
-<2F4K_clustering_result_state_3.pdf, id=245, 693.59125pt x 75.70659pt>
+<2F4K_clustering_result_state_3.pdf, id=252, 693.59125pt x 75.70659pt>
 File: 2F4K_clustering_result_state_3.pdf Graphic file (type pdf)
 <use 2F4K_clustering_result_state_3.pdf>
 Package pdftex.def Info: 2F4K_clustering_result_state_3.pdf  used on input line
- 118.
+ 163.
 (pdftex.def)             Requested size: 310.50357pt x 33.8932pt.
 
-Overfull \hbox (7.83324pt too wide) in paragraph at lines 118--118
+Overfull \hbox (7.83324pt too wide) in paragraph at lines 163--163
  [][] 
  []
 
-[5
+[6
 
  <./2F4K_state_0.png> <./2F4K_state_1.png> <./2F4K_state_2.png> <./2F4K_cluster
 ing_result_state_1.pdf> <./2F4K_clustering_result_state_2.pdf
@@ -596,76 +595,76 @@ sion: multiple pdfs with page group included in a single page
 pdfTeX warning: pdflatex (file ./2F4K_clustering_result_state_3.pdf): PDF inclu
 sion: multiple pdfs with page group included in a single page
 >]
-<2WAV_state_0.png, id=328, 1427.3325pt x 1427.3325pt>
+<2WAV_state_0.png, id=335, 1427.3325pt x 1427.3325pt>
 File: 2WAV_state_0.png Graphic file (type png)
 <use 2WAV_state_0.png>
-Package pdftex.def Info: 2WAV_state_0.png  used on input line 130.
+Package pdftex.def Info: 2WAV_state_0.png  used on input line 175.
 (pdftex.def)             Requested size: 133.07489pt x 133.06767pt.
-<2WAV_clustering_result_state_1.pdf, id=330, 696.78886pt x 75.70659pt>
+<2WAV_clustering_result_state_1.pdf, id=337, 696.78886pt x 75.70659pt>
 File: 2WAV_clustering_result_state_1.pdf Graphic file (type pdf)
 <use 2WAV_clustering_result_state_1.pdf>
 Package pdftex.def Info: 2WAV_clustering_result_state_1.pdf  used on input line
- 130.
+ 175.
 (pdftex.def)             Requested size: 310.50357pt x 33.7361pt.
 
-Overfull \hbox (7.83324pt too wide) in paragraph at lines 130--130
+Overfull \hbox (7.83324pt too wide) in paragraph at lines 175--175
  [][] 
  []
 
-<2WAV_state_1.png, id=331, 1427.3325pt x 1427.3325pt>
+<2WAV_state_1.png, id=338, 1427.3325pt x 1427.3325pt>
 File: 2WAV_state_1.png Graphic file (type png)
 <use 2WAV_state_1.png>
-Package pdftex.def Info: 2WAV_state_1.png  used on input line 133.
+Package pdftex.def Info: 2WAV_state_1.png  used on input line 178.
 (pdftex.def)             Requested size: 133.07489pt x 133.06767pt.
-<2WAV_clustering_result_state_2.pdf, id=333, 696.78886pt x 75.70659pt>
+<2WAV_clustering_result_state_2.pdf, id=340, 696.78886pt x 75.70659pt>
 File: 2WAV_clustering_result_state_2.pdf Graphic file (type pdf)
 <use 2WAV_clustering_result_state_2.pdf>
 Package pdftex.def Info: 2WAV_clustering_result_state_2.pdf  used on input line
- 133.
+ 178.
 (pdftex.def)             Requested size: 310.50357pt x 33.7361pt.
 
-Overfull \hbox (7.83324pt too wide) in paragraph at lines 133--133
+Overfull \hbox (7.83324pt too wide) in paragraph at lines 178--178
  [][] 
  []
 
-<2WAV_state_2.png, id=334, 513.92pt x 513.92pt>
+<2WAV_state_2.png, id=341, 513.92pt x 513.92pt>
 File: 2WAV_state_2.png Graphic file (type png)
 <use 2WAV_state_2.png>
-Package pdftex.def Info: 2WAV_state_2.png  used on input line 136.
+Package pdftex.def Info: 2WAV_state_2.png  used on input line 181.
 (pdftex.def)             Requested size: 133.07489pt x 133.07495pt.
-<2WAV_clustering_result_state_3.pdf, id=336, 696.78886pt x 75.70659pt>
+<2WAV_clustering_result_state_3.pdf, id=343, 696.78886pt x 75.70659pt>
 File: 2WAV_clustering_result_state_3.pdf Graphic file (type pdf)
 <use 2WAV_clustering_result_state_3.pdf>
 Package pdftex.def Info: 2WAV_clustering_result_state_3.pdf  used on input line
- 136.
+ 181.
 (pdftex.def)             Requested size: 310.50357pt x 33.7361pt.
 
-Overfull \hbox (7.83324pt too wide) in paragraph at lines 136--136
+Overfull \hbox (7.83324pt too wide) in paragraph at lines 181--181
  [][] 
  []
 
-<2WAV_state_3.png, id=337, 513.92pt x 513.92pt>
+<2WAV_state_3.png, id=344, 513.92pt x 513.92pt>
 File: 2WAV_state_3.png Graphic file (type png)
 <use 2WAV_state_3.png>
-Package pdftex.def Info: 2WAV_state_3.png  used on input line 145.
+Package pdftex.def Info: 2WAV_state_3.png  used on input line 190.
 (pdftex.def)             Requested size: 133.07489pt x 133.07495pt.
-<2WAV_clustering_result_state_4.pdf, id=339, 696.78886pt x 75.70659pt>
+<2WAV_clustering_result_state_4.pdf, id=346, 696.78886pt x 75.70659pt>
 File: 2WAV_clustering_result_state_4.pdf Graphic file (type pdf)
 <use 2WAV_clustering_result_state_4.pdf>
 Package pdftex.def Info: 2WAV_clustering_result_state_4.pdf  used on input line
- 145.
+ 190.
 (pdftex.def)             Requested size: 310.50357pt x 33.7361pt.
 
-Overfull \hbox (7.83324pt too wide) in paragraph at lines 145--146
+Overfull \hbox (7.83324pt too wide) in paragraph at lines 190--191
 [][] 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 145--146
+Underfull \hbox (badness 10000) in paragraph at lines 190--191
 
  []
 
-[6
+[7
 
  <./2WAV_state_0.png> <./2WAV_state_1.png> <./2WAV_state_2.png> <./2WAV_cluster
 ing_result_state_1.pdf> <./2WAV_clustering_result_state_2.pdf
@@ -676,60 +675,60 @@ sion: multiple pdfs with page group included in a single page
 
 pdfTeX warning: pdflatex (file ./2WAV_clustering_result_state_3.pdf): PDF inclu
 sion: multiple pdfs with page group included in a single page
->] [7 <./2WAV_state_3.png> <./2WAV_clustering_result_state_4.pdf
+>] [8 <./2WAV_state_3.png> <./2WAV_clustering_result_state_4.pdf
 
 pdfTeX warning: pdflatex (file ./2WAV_clustering_result_state_4.pdf): PDF inclu
 sion: multiple pdfs with page group included in a single page
 >]
-<PRB_state_0.png, id=457, 513.92pt x 513.92pt>
+<PRB_state_0.png, id=464, 513.92pt x 513.92pt>
 File: PRB_state_0.png Graphic file (type png)
 <use PRB_state_0.png>
-Package pdftex.def Info: PRB_state_0.png  used on input line 157.
+Package pdftex.def Info: PRB_state_0.png  used on input line 202.
 (pdftex.def)             Requested size: 133.07489pt x 133.07495pt.
-<PRB_clustering_result_state_1.pdf, id=459, 693.59125pt x 75.70659pt>
+<PRB_clustering_result_state_1.pdf, id=466, 693.59125pt x 75.70659pt>
 File: PRB_clustering_result_state_1.pdf Graphic file (type pdf)
 <use PRB_clustering_result_state_1.pdf>
 Package pdftex.def Info: PRB_clustering_result_state_1.pdf  used on input line 
-157.
+202.
 (pdftex.def)             Requested size: 310.50357pt x 33.8932pt.
 
-Overfull \hbox (7.83324pt too wide) in paragraph at lines 157--157
+Overfull \hbox (7.83324pt too wide) in paragraph at lines 202--202
  [][] 
  []
 
-<PRB_state_1.png, id=460, 513.92pt x 513.92pt>
+<PRB_state_1.png, id=467, 513.92pt x 513.92pt>
 File: PRB_state_1.png Graphic file (type png)
 <use PRB_state_1.png>
-Package pdftex.def Info: PRB_state_1.png  used on input line 160.
+Package pdftex.def Info: PRB_state_1.png  used on input line 205.
 (pdftex.def)             Requested size: 133.07489pt x 133.07495pt.
-<PRB_clustering_result_state_2.pdf, id=462, 693.59125pt x 75.70659pt>
+<PRB_clustering_result_state_2.pdf, id=469, 693.59125pt x 75.70659pt>
 File: PRB_clustering_result_state_2.pdf Graphic file (type pdf)
 <use PRB_clustering_result_state_2.pdf>
 Package pdftex.def Info: PRB_clustering_result_state_2.pdf  used on input line 
-160.
+205.
 (pdftex.def)             Requested size: 310.50357pt x 33.8932pt.
 
-Overfull \hbox (7.83324pt too wide) in paragraph at lines 160--160
+Overfull \hbox (7.83324pt too wide) in paragraph at lines 205--205
  [][] 
  []
 
-<PRB_state_2.png, id=463, 513.92pt x 513.92pt>
+<PRB_state_2.png, id=470, 513.92pt x 513.92pt>
 File: PRB_state_2.png Graphic file (type png)
 <use PRB_state_2.png>
-Package pdftex.def Info: PRB_state_2.png  used on input line 163.
+Package pdftex.def Info: PRB_state_2.png  used on input line 208.
 (pdftex.def)             Requested size: 133.07489pt x 133.07495pt.
-<PRB_clustering_result_state_3.pdf, id=465, 693.59125pt x 75.70659pt>
+<PRB_clustering_result_state_3.pdf, id=472, 693.59125pt x 75.70659pt>
 File: PRB_clustering_result_state_3.pdf Graphic file (type pdf)
 <use PRB_clustering_result_state_3.pdf>
 Package pdftex.def Info: PRB_clustering_result_state_3.pdf  used on input line 
-163.
+208.
 (pdftex.def)             Requested size: 310.50357pt x 33.8932pt.
 
-Overfull \hbox (7.83324pt too wide) in paragraph at lines 163--163
+Overfull \hbox (7.83324pt too wide) in paragraph at lines 208--208
  [][] 
  []
 
-[8
+[9
 
  <./PRB_state_0.png> <./PRB_state_1.png> <./PRB_state_2.png> <./PRB_clustering_
 result_state_1.pdf
@@ -745,55 +744,55 @@ ion: multiple pdfs with page group included in a single page
 pdfTeX warning: pdflatex (file ./PRB_clustering_result_state_3.pdf): PDF inclus
 ion: multiple pdfs with page group included in a single page
 >]
-<UVF_state_0.png, id=548, 1927.2pt x 1084.05pt>
+<UVF_state_0.png, id=555, 1927.2pt x 1084.05pt>
 File: UVF_state_0.png Graphic file (type png)
 <use UVF_state_0.png>
-Package pdftex.def Info: UVF_state_0.png  used on input line 175.
+Package pdftex.def Info: UVF_state_0.png  used on input line 220.
 (pdftex.def)             Requested size: 133.07489pt x 133.0578pt.
-<UVF_clustering_result_state_1.pdf, id=550, 693.59125pt x 75.70659pt>
+<UVF_clustering_result_state_1.pdf, id=557, 693.59125pt x 75.70659pt>
 File: UVF_clustering_result_state_1.pdf Graphic file (type pdf)
 <use UVF_clustering_result_state_1.pdf>
 Package pdftex.def Info: UVF_clustering_result_state_1.pdf  used on input line 
-175.
+220.
 (pdftex.def)             Requested size: 310.50357pt x 33.8932pt.
 
-Overfull \hbox (7.83324pt too wide) in paragraph at lines 175--175
+Overfull \hbox (7.83324pt too wide) in paragraph at lines 220--220
  [][] 
  []
 
-<UVF_state_1.png, id=551, 1927.2pt x 1084.05pt>
+<UVF_state_1.png, id=558, 1927.2pt x 1084.05pt>
 File: UVF_state_1.png Graphic file (type png)
 <use UVF_state_1.png>
-Package pdftex.def Info: UVF_state_1.png  used on input line 178.
+Package pdftex.def Info: UVF_state_1.png  used on input line 223.
 (pdftex.def)             Requested size: 133.07489pt x 133.0578pt.
-<UVF_clustering_result_state_2.pdf, id=553, 693.59125pt x 75.70659pt>
+<UVF_clustering_result_state_2.pdf, id=560, 693.59125pt x 75.70659pt>
 File: UVF_clustering_result_state_2.pdf Graphic file (type pdf)
 <use UVF_clustering_result_state_2.pdf>
 Package pdftex.def Info: UVF_clustering_result_state_2.pdf  used on input line 
-178.
+223.
 (pdftex.def)             Requested size: 310.50357pt x 33.8932pt.
 
-Overfull \hbox (7.83324pt too wide) in paragraph at lines 178--178
+Overfull \hbox (7.83324pt too wide) in paragraph at lines 223--223
  [][] 
  []
 
-<UVF_state_2.png, id=554, 1927.2pt x 1084.05pt>
+<UVF_state_2.png, id=561, 1927.2pt x 1084.05pt>
 File: UVF_state_2.png Graphic file (type png)
 <use UVF_state_2.png>
-Package pdftex.def Info: UVF_state_2.png  used on input line 181.
+Package pdftex.def Info: UVF_state_2.png  used on input line 226.
 (pdftex.def)             Requested size: 133.07489pt x 133.0578pt.
-<UVF_clustering_result_state_3.pdf, id=556, 693.59125pt x 75.70659pt>
+<UVF_clustering_result_state_3.pdf, id=563, 693.59125pt x 75.70659pt>
 File: UVF_clustering_result_state_3.pdf Graphic file (type pdf)
 <use UVF_clustering_result_state_3.pdf>
 Package pdftex.def Info: UVF_clustering_result_state_3.pdf  used on input line 
-181.
+226.
 (pdftex.def)             Requested size: 310.50357pt x 33.8932pt.
 
-Overfull \hbox (7.83324pt too wide) in paragraph at lines 181--181
+Overfull \hbox (7.83324pt too wide) in paragraph at lines 226--226
  [][] 
  []
 
-[9
+[10
 
  <./UVF_state_0.png> <./UVF_state_1.png> <./UVF_state_2.png> <./UVF_clustering_
 result_state_1.pdf> <./UVF_clustering_result_state_2.pdf
@@ -805,55 +804,55 @@ ion: multiple pdfs with page group included in a single page
 pdfTeX warning: pdflatex (file ./UVF_clustering_result_state_3.pdf): PDF inclus
 ion: multiple pdfs with page group included in a single page
 >]
-<NuG2_state_0.png, id=640, 1927.2pt x 1084.05pt>
+<NuG2_state_0.png, id=647, 1927.2pt x 1084.05pt>
 File: NuG2_state_0.png Graphic file (type png)
 <use NuG2_state_0.png>
-Package pdftex.def Info: NuG2_state_0.png  used on input line 193.
+Package pdftex.def Info: NuG2_state_0.png  used on input line 238.
 (pdftex.def)             Requested size: 133.07489pt x 133.0578pt.
-<NuG2_clustering_result_state_1.pdf, id=642, 693.59125pt x 75.70659pt>
+<NuG2_clustering_result_state_1.pdf, id=649, 693.59125pt x 75.70659pt>
 File: NuG2_clustering_result_state_1.pdf Graphic file (type pdf)
 <use NuG2_clustering_result_state_1.pdf>
 Package pdftex.def Info: NuG2_clustering_result_state_1.pdf  used on input line
- 193.
+ 238.
 (pdftex.def)             Requested size: 310.50357pt x 33.8932pt.
 
-Overfull \hbox (7.83324pt too wide) in paragraph at lines 193--193
+Overfull \hbox (7.83324pt too wide) in paragraph at lines 238--238
  [][] 
  []
 
-<NuG2_state_1.png, id=643, 1927.2pt x 1084.05pt>
+<NuG2_state_1.png, id=650, 1927.2pt x 1084.05pt>
 File: NuG2_state_1.png Graphic file (type png)
 <use NuG2_state_1.png>
-Package pdftex.def Info: NuG2_state_1.png  used on input line 196.
+Package pdftex.def Info: NuG2_state_1.png  used on input line 241.
 (pdftex.def)             Requested size: 133.07489pt x 133.0578pt.
-<NuG2_clustering_result_state_2.pdf, id=645, 693.59125pt x 75.70659pt>
+<NuG2_clustering_result_state_2.pdf, id=652, 693.59125pt x 75.70659pt>
 File: NuG2_clustering_result_state_2.pdf Graphic file (type pdf)
 <use NuG2_clustering_result_state_2.pdf>
 Package pdftex.def Info: NuG2_clustering_result_state_2.pdf  used on input line
- 196.
+ 241.
 (pdftex.def)             Requested size: 310.50357pt x 33.8932pt.
 
-Overfull \hbox (7.83324pt too wide) in paragraph at lines 196--196
+Overfull \hbox (7.83324pt too wide) in paragraph at lines 241--241
  [][] 
  []
 
-<NuG2_state_2.png, id=646, 1927.2pt x 1084.05pt>
+<NuG2_state_2.png, id=653, 1927.2pt x 1084.05pt>
 File: NuG2_state_2.png Graphic file (type png)
 <use NuG2_state_2.png>
-Package pdftex.def Info: NuG2_state_2.png  used on input line 199.
+Package pdftex.def Info: NuG2_state_2.png  used on input line 244.
 (pdftex.def)             Requested size: 133.07489pt x 133.0578pt.
-<NuG2_clustering_result_state_3.pdf, id=648, 693.59125pt x 75.70659pt>
+<NuG2_clustering_result_state_3.pdf, id=655, 693.59125pt x 75.70659pt>
 File: NuG2_clustering_result_state_3.pdf Graphic file (type pdf)
 <use NuG2_clustering_result_state_3.pdf>
 Package pdftex.def Info: NuG2_clustering_result_state_3.pdf  used on input line
- 199.
+ 244.
 (pdftex.def)             Requested size: 310.50357pt x 33.8932pt.
 
-Overfull \hbox (7.83324pt too wide) in paragraph at lines 199--199
+Overfull \hbox (7.83324pt too wide) in paragraph at lines 244--244
  [][] 
  []
 
-[10
+[11
 
  <./NuG2_state_0.png> <./NuG2_state_1.png> <./NuG2_state_2.png> <./NuG2_cluster
 ing_result_state_1.pdf
@@ -869,92 +868,92 @@ sion: multiple pdfs with page group included in a single page
 pdfTeX warning: pdflatex (file ./NuG2_clustering_result_state_3.pdf): PDF inclu
 sion: multiple pdfs with page group included in a single page
 >]
-<A3D_state_0.png, id=734, 513.92pt x 513.92pt>
+<A3D_state_0.png, id=741, 513.92pt x 513.92pt>
 File: A3D_state_0.png Graphic file (type png)
 <use A3D_state_0.png>
-Package pdftex.def Info: A3D_state_0.png  used on input line 211.
+Package pdftex.def Info: A3D_state_0.png  used on input line 256.
 (pdftex.def)             Requested size: 133.07489pt x 133.07495pt.
-<A3D_clustering_result_state_1.pdf, id=736, 693.59125pt x 75.70659pt>
+<A3D_clustering_result_state_1.pdf, id=743, 693.59125pt x 75.70659pt>
 File: A3D_clustering_result_state_1.pdf Graphic file (type pdf)
 <use A3D_clustering_result_state_1.pdf>
 Package pdftex.def Info: A3D_clustering_result_state_1.pdf  used on input line 
-211.
+256.
 (pdftex.def)             Requested size: 310.50357pt x 33.8932pt.
 
-Overfull \hbox (7.83324pt too wide) in paragraph at lines 211--211
+Overfull \hbox (7.83324pt too wide) in paragraph at lines 256--256
  [][] 
  []
 
-<A3D_state_1.png, id=737, 513.92pt x 513.92pt>
+<A3D_state_1.png, id=744, 513.92pt x 513.92pt>
 File: A3D_state_1.png Graphic file (type png)
 <use A3D_state_1.png>
-Package pdftex.def Info: A3D_state_1.png  used on input line 214.
+Package pdftex.def Info: A3D_state_1.png  used on input line 259.
 (pdftex.def)             Requested size: 133.07489pt x 133.07495pt.
-<A3D_clustering_result_state_2.pdf, id=739, 693.59125pt x 75.70659pt>
+<A3D_clustering_result_state_2.pdf, id=746, 693.59125pt x 75.70659pt>
 File: A3D_clustering_result_state_2.pdf Graphic file (type pdf)
 <use A3D_clustering_result_state_2.pdf>
 Package pdftex.def Info: A3D_clustering_result_state_2.pdf  used on input line 
-214.
+259.
 (pdftex.def)             Requested size: 310.50357pt x 33.8932pt.
 
-Overfull \hbox (7.83324pt too wide) in paragraph at lines 214--214
+Overfull \hbox (7.83324pt too wide) in paragraph at lines 259--259
  [][] 
  []
 
-<A3D_state_2.png, id=740, 513.92pt x 513.92pt>
+<A3D_state_2.png, id=747, 513.92pt x 513.92pt>
 File: A3D_state_2.png Graphic file (type png)
 <use A3D_state_2.png>
-Package pdftex.def Info: A3D_state_2.png  used on input line 217.
+Package pdftex.def Info: A3D_state_2.png  used on input line 262.
 (pdftex.def)             Requested size: 133.07489pt x 133.07495pt.
-<A3D_clustering_result_state_3.pdf, id=742, 693.59125pt x 75.70659pt>
+<A3D_clustering_result_state_3.pdf, id=749, 693.59125pt x 75.70659pt>
 File: A3D_clustering_result_state_3.pdf Graphic file (type pdf)
 <use A3D_clustering_result_state_3.pdf>
 Package pdftex.def Info: A3D_clustering_result_state_3.pdf  used on input line 
-217.
+262.
 (pdftex.def)             Requested size: 310.50357pt x 33.8932pt.
 
-Overfull \hbox (7.83324pt too wide) in paragraph at lines 217--217
+Overfull \hbox (7.83324pt too wide) in paragraph at lines 262--262
  [][] 
  []
 
-<A3D_state_3.png, id=743, 513.92pt x 513.92pt>
+<A3D_state_3.png, id=750, 513.92pt x 513.92pt>
 File: A3D_state_3.png Graphic file (type png)
 <use A3D_state_3.png>
-Package pdftex.def Info: A3D_state_3.png  used on input line 226.
+Package pdftex.def Info: A3D_state_3.png  used on input line 271.
 (pdftex.def)             Requested size: 133.07489pt x 133.07495pt.
-<A3D_clustering_result_state_4.pdf, id=745, 693.59125pt x 75.70659pt>
+<A3D_clustering_result_state_4.pdf, id=752, 693.59125pt x 75.70659pt>
 File: A3D_clustering_result_state_4.pdf Graphic file (type pdf)
 <use A3D_clustering_result_state_4.pdf>
 Package pdftex.def Info: A3D_clustering_result_state_4.pdf  used on input line 
-226.
+271.
 (pdftex.def)             Requested size: 310.50357pt x 33.8932pt.
-<A3D_state_4.png, id=746, 513.92pt x 513.92pt>
+<A3D_state_4.png, id=753, 513.92pt x 513.92pt>
 File: A3D_state_4.png Graphic file (type png)
 <use A3D_state_4.png>
-Package pdftex.def Info: A3D_state_4.png  used on input line 229.
+Package pdftex.def Info: A3D_state_4.png  used on input line 274.
 (pdftex.def)             Requested size: 133.07489pt x 133.07495pt.
-<A3D_clustering_result_state_5.pdf, id=748, 693.59125pt x 75.70659pt>
+<A3D_clustering_result_state_5.pdf, id=755, 693.59125pt x 75.70659pt>
 File: A3D_clustering_result_state_5.pdf Graphic file (type pdf)
 <use A3D_clustering_result_state_5.pdf>
 Package pdftex.def Info: A3D_clustering_result_state_5.pdf  used on input line 
-229.
+274.
 (pdftex.def)             Requested size: 310.50357pt x 33.8932pt.
 
-Overfull \hbox (7.83324pt too wide) in paragraph at lines 226--230
+Overfull \hbox (7.83324pt too wide) in paragraph at lines 271--275
 [][] 
  []
 
 
-Overfull \hbox (7.83324pt too wide) in paragraph at lines 226--230
+Overfull \hbox (7.83324pt too wide) in paragraph at lines 271--275
 [] 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 226--230
+Underfull \hbox (badness 10000) in paragraph at lines 271--275
 
  []
 
-[11
+[12
 
  <./A3D_state_0.png> <./A3D_state_1.png> <./A3D_state_2.png> <./A3D_clustering_
 result_state_1.pdf
@@ -969,7 +968,7 @@ ion: multiple pdfs with page group included in a single page
 
 pdfTeX warning: pdflatex (file ./A3D_clustering_result_state_3.pdf): PDF inclus
 ion: multiple pdfs with page group included in a single page
->] [12 <./A3D_state_3.png> <./A3D_state_4.png> <./A3D_clustering_result_state_4
+>] [13 <./A3D_state_3.png> <./A3D_state_4.png> <./A3D_clustering_result_state_4
 .pdf
 
 pdfTeX warning: pdflatex (file ./A3D_clustering_result_state_4.pdf): PDF inclus
@@ -979,76 +978,76 @@ ion: multiple pdfs with page group included in a single page
 pdfTeX warning: pdflatex (file ./A3D_clustering_result_state_5.pdf): PDF inclus
 ion: multiple pdfs with page group included in a single page
 >]
-<lambda_state_0.png, id=894, 513.92pt x 513.92pt>
+<lambda_state_0.png, id=901, 513.92pt x 513.92pt>
 File: lambda_state_0.png Graphic file (type png)
 <use lambda_state_0.png>
-Package pdftex.def Info: lambda_state_0.png  used on input line 241.
+Package pdftex.def Info: lambda_state_0.png  used on input line 286.
 (pdftex.def)             Requested size: 133.07489pt x 133.07495pt.
-<lambda_clustering_result_state_1.pdf, id=896, 693.59125pt x 75.70659pt>
+<lambda_clustering_result_state_1.pdf, id=903, 693.59125pt x 75.70659pt>
 File: lambda_clustering_result_state_1.pdf Graphic file (type pdf)
 <use lambda_clustering_result_state_1.pdf>
 Package pdftex.def Info: lambda_clustering_result_state_1.pdf  used on input li
-ne 241.
+ne 286.
 (pdftex.def)             Requested size: 310.50357pt x 33.8932pt.
 
-Overfull \hbox (7.83324pt too wide) in paragraph at lines 241--241
+Overfull \hbox (7.83324pt too wide) in paragraph at lines 286--286
  [][] 
  []
 
-<lambda_state_1.png, id=897, 513.92pt x 513.92pt>
+<lambda_state_1.png, id=904, 513.92pt x 513.92pt>
 File: lambda_state_1.png Graphic file (type png)
 <use lambda_state_1.png>
-Package pdftex.def Info: lambda_state_1.png  used on input line 244.
+Package pdftex.def Info: lambda_state_1.png  used on input line 289.
 (pdftex.def)             Requested size: 133.07489pt x 133.07495pt.
-<lambda_clustering_result_state_2.pdf, id=899, 693.59125pt x 75.70659pt>
+<lambda_clustering_result_state_2.pdf, id=906, 693.59125pt x 75.70659pt>
 File: lambda_clustering_result_state_2.pdf Graphic file (type pdf)
 <use lambda_clustering_result_state_2.pdf>
 Package pdftex.def Info: lambda_clustering_result_state_2.pdf  used on input li
-ne 244.
+ne 289.
 (pdftex.def)             Requested size: 310.50357pt x 33.8932pt.
 
-Overfull \hbox (7.83324pt too wide) in paragraph at lines 244--244
+Overfull \hbox (7.83324pt too wide) in paragraph at lines 289--289
  [][] 
  []
 
-<lambda_state_2.png, id=900, 513.92pt x 513.92pt>
+<lambda_state_2.png, id=907, 513.92pt x 513.92pt>
 File: lambda_state_2.png Graphic file (type png)
 <use lambda_state_2.png>
-Package pdftex.def Info: lambda_state_2.png  used on input line 247.
+Package pdftex.def Info: lambda_state_2.png  used on input line 292.
 (pdftex.def)             Requested size: 133.07489pt x 133.07495pt.
-<lambda_clustering_result_state_3.pdf, id=902, 693.59125pt x 75.70659pt>
+<lambda_clustering_result_state_3.pdf, id=909, 693.59125pt x 75.70659pt>
 File: lambda_clustering_result_state_3.pdf Graphic file (type pdf)
 <use lambda_clustering_result_state_3.pdf>
 Package pdftex.def Info: lambda_clustering_result_state_3.pdf  used on input li
-ne 247.
+ne 292.
 (pdftex.def)             Requested size: 310.50357pt x 33.8932pt.
 
-Overfull \hbox (7.83324pt too wide) in paragraph at lines 247--247
+Overfull \hbox (7.83324pt too wide) in paragraph at lines 292--292
  [][] 
  []
 
-<lambda_state_3.png, id=903, 513.92pt x 513.92pt>
+<lambda_state_3.png, id=910, 513.92pt x 513.92pt>
 File: lambda_state_3.png Graphic file (type png)
 <use lambda_state_3.png>
-Package pdftex.def Info: lambda_state_3.png  used on input line 256.
+Package pdftex.def Info: lambda_state_3.png  used on input line 301.
 (pdftex.def)             Requested size: 133.07489pt x 133.07495pt.
-<lambda_clustering_result_state_4.pdf, id=905, 693.59125pt x 75.70659pt>
+<lambda_clustering_result_state_4.pdf, id=912, 693.59125pt x 75.70659pt>
 File: lambda_clustering_result_state_4.pdf Graphic file (type pdf)
 <use lambda_clustering_result_state_4.pdf>
 Package pdftex.def Info: lambda_clustering_result_state_4.pdf  used on input li
-ne 256.
+ne 301.
 (pdftex.def)             Requested size: 310.50357pt x 33.8932pt.
 
-Overfull \hbox (7.83324pt too wide) in paragraph at lines 256--257
+Overfull \hbox (7.83324pt too wide) in paragraph at lines 301--302
 [][] 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 256--257
+Underfull \hbox (badness 10000) in paragraph at lines 301--302
 
  []
 
-[13
+[14
 
  <./lambda_state_0.png> <./lambda_state_1.png> <./lambda_state_2.png> <./lambda
 _clustering_result_state_1.pdf
@@ -1063,113 +1062,113 @@ lusion: multiple pdfs with page group included in a single page
 
 pdfTeX warning: pdflatex (file ./lambda_clustering_result_state_3.pdf): PDF inc
 lusion: multiple pdfs with page group included in a single page
->] [14 <./lambda_state_3.png> <./lambda_clustering_result_state_4.pdf
+>] [15 <./lambda_state_3.png> <./lambda_clustering_result_state_4.pdf
 
 pdfTeX warning: pdflatex (file ./lambda_clustering_result_state_4.pdf): PDF inc
 lusion: multiple pdfs with page group included in a single page
 >]
-<ACTR_traj_1.png, id=1027, 1927.2pt x 1084.05pt>
+<ACTR_traj_1.png, id=1033, 1927.2pt x 1084.05pt>
 File: ACTR_traj_1.png Graphic file (type png)
 <use ACTR_traj_1.png>
-Package pdftex.def Info: ACTR_traj_1.png  used on input line 272.
+Package pdftex.def Info: ACTR_traj_1.png  used on input line 317.
 (pdftex.def)             Requested size: 133.07489pt x 94.35129pt.
-<ACTR_clustering_result_traj_1.pdf, id=1029, 693.59125pt x 75.70659pt>
+<ACTR_clustering_result_traj_1.pdf, id=1035, 693.59125pt x 75.70659pt>
 File: ACTR_clustering_result_traj_1.pdf Graphic file (type pdf)
 <use ACTR_clustering_result_traj_1.pdf>
 Package pdftex.def Info: ACTR_clustering_result_traj_1.pdf  used on input line 
-272.
+317.
 (pdftex.def)             Requested size: 310.50357pt x 33.8932pt.
 
-Overfull \hbox (7.83324pt too wide) in paragraph at lines 272--272
+Overfull \hbox (7.83324pt too wide) in paragraph at lines 317--317
  [][] 
  []
 
-<ACTR_traj_2.png, id=1030, 1927.2pt x 1084.05pt>
+<ACTR_traj_2.png, id=1036, 1927.2pt x 1084.05pt>
 File: ACTR_traj_2.png Graphic file (type png)
 <use ACTR_traj_2.png>
-Package pdftex.def Info: ACTR_traj_2.png  used on input line 275.
+Package pdftex.def Info: ACTR_traj_2.png  used on input line 320.
 (pdftex.def)             Requested size: 133.07489pt x 94.35129pt.
-<ACTR_clustering_result_traj_2.pdf, id=1032, 693.59125pt x 75.70659pt>
+<ACTR_clustering_result_traj_2.pdf, id=1038, 693.59125pt x 75.70659pt>
 File: ACTR_clustering_result_traj_2.pdf Graphic file (type pdf)
 <use ACTR_clustering_result_traj_2.pdf>
 Package pdftex.def Info: ACTR_clustering_result_traj_2.pdf  used on input line 
-275.
+320.
 (pdftex.def)             Requested size: 310.50357pt x 33.8932pt.
 
-Overfull \hbox (7.83324pt too wide) in paragraph at lines 275--275
+Overfull \hbox (7.83324pt too wide) in paragraph at lines 320--320
  [][] 
  []
 
-<ACTR_traj_3.png, id=1033, 1927.2pt x 1084.05pt>
+<ACTR_traj_3.png, id=1039, 1927.2pt x 1084.05pt>
 File: ACTR_traj_3.png Graphic file (type png)
 <use ACTR_traj_3.png>
-Package pdftex.def Info: ACTR_traj_3.png  used on input line 278.
+Package pdftex.def Info: ACTR_traj_3.png  used on input line 323.
 (pdftex.def)             Requested size: 133.07489pt x 94.35129pt.
-<ACTR_clustering_result_traj_3.pdf, id=1035, 693.59125pt x 75.70659pt>
+<ACTR_clustering_result_traj_3.pdf, id=1041, 693.59125pt x 75.70659pt>
 File: ACTR_clustering_result_traj_3.pdf Graphic file (type pdf)
 <use ACTR_clustering_result_traj_3.pdf>
 Package pdftex.def Info: ACTR_clustering_result_traj_3.pdf  used on input line 
-278.
+323.
 (pdftex.def)             Requested size: 310.50357pt x 33.8932pt.
 
-Overfull \hbox (7.83324pt too wide) in paragraph at lines 278--278
+Overfull \hbox (7.83324pt too wide) in paragraph at lines 323--323
  [][] 
  []
 
-<ACTR_traj_4.png, id=1036, 1927.2pt x 1084.05pt>
+<ACTR_traj_4.png, id=1042, 1927.2pt x 1084.05pt>
 File: ACTR_traj_4.png Graphic file (type png)
 <use ACTR_traj_4.png>
-Package pdftex.def Info: ACTR_traj_4.png  used on input line 287.
+Package pdftex.def Info: ACTR_traj_4.png  used on input line 332.
 (pdftex.def)             Requested size: 133.07489pt x 94.35129pt.
-<ACTR_clustering_result_traj_4.pdf, id=1038, 693.59125pt x 75.70659pt>
+<ACTR_clustering_result_traj_4.pdf, id=1044, 693.59125pt x 75.70659pt>
 File: ACTR_clustering_result_traj_4.pdf Graphic file (type pdf)
 <use ACTR_clustering_result_traj_4.pdf>
 Package pdftex.def Info: ACTR_clustering_result_traj_4.pdf  used on input line 
-287.
+332.
 (pdftex.def)             Requested size: 310.50357pt x 33.8932pt.
-<ACTR_traj_5.png, id=1039, 1927.2pt x 1084.05pt>
+<ACTR_traj_5.png, id=1045, 1927.2pt x 1084.05pt>
 File: ACTR_traj_5.png Graphic file (type png)
 <use ACTR_traj_5.png>
-Package pdftex.def Info: ACTR_traj_5.png  used on input line 290.
+Package pdftex.def Info: ACTR_traj_5.png  used on input line 335.
 (pdftex.def)             Requested size: 133.07489pt x 94.35129pt.
-<ACTR_clustering_result_traj_5.pdf, id=1041, 693.59125pt x 75.70659pt>
+<ACTR_clustering_result_traj_5.pdf, id=1047, 693.59125pt x 75.70659pt>
 File: ACTR_clustering_result_traj_5.pdf Graphic file (type pdf)
 <use ACTR_clustering_result_traj_5.pdf>
 Package pdftex.def Info: ACTR_clustering_result_traj_5.pdf  used on input line 
-290.
+335.
 (pdftex.def)             Requested size: 310.50357pt x 33.8932pt.
-<ACTR_traj_6.png, id=1042, 1927.2pt x 1084.05pt>
+<ACTR_traj_6.png, id=1048, 1927.2pt x 1084.05pt>
 File: ACTR_traj_6.png Graphic file (type png)
 <use ACTR_traj_6.png>
-Package pdftex.def Info: ACTR_traj_6.png  used on input line 293.
+Package pdftex.def Info: ACTR_traj_6.png  used on input line 338.
 (pdftex.def)             Requested size: 133.07489pt x 94.35129pt.
-<ACTR_clustering_result_traj_6.pdf, id=1044, 693.59125pt x 75.70659pt>
+<ACTR_clustering_result_traj_6.pdf, id=1050, 693.59125pt x 75.70659pt>
 File: ACTR_clustering_result_traj_6.pdf Graphic file (type pdf)
 <use ACTR_clustering_result_traj_6.pdf>
 Package pdftex.def Info: ACTR_clustering_result_traj_6.pdf  used on input line 
-293.
+338.
 (pdftex.def)             Requested size: 310.50357pt x 33.8932pt.
 
-Overfull \hbox (7.83324pt too wide) in paragraph at lines 287--294
+Overfull \hbox (7.83324pt too wide) in paragraph at lines 332--339
 [][] 
  []
 
 
-Overfull \hbox (7.83324pt too wide) in paragraph at lines 287--294
+Overfull \hbox (7.83324pt too wide) in paragraph at lines 332--339
 [] 
  []
 
 
-Overfull \hbox (7.83324pt too wide) in paragraph at lines 287--294
+Overfull \hbox (7.83324pt too wide) in paragraph at lines 332--339
 [] 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 287--294
+Underfull \hbox (badness 10000) in paragraph at lines 332--339
 
  []
 
-[15
+[16
 
  <./ACTR_traj_1.png> <./ACTR_traj_2.png> <./ACTR_traj_3.png> <./ACTR_clustering
 _result_traj_1.pdf
@@ -1184,7 +1183,7 @@ ion: multiple pdfs with page group included in a single page
 
 pdfTeX warning: pdflatex (file ./ACTR_clustering_result_traj_3.pdf): PDF inclus
 ion: multiple pdfs with page group included in a single page
->] [16 <./ACTR_traj_4.png> <./ACTR_traj_5.png> <./ACTR_traj_6.png> <./ACTR_clus
+>] [17 <./ACTR_traj_4.png> <./ACTR_traj_5.png> <./ACTR_traj_6.png> <./ACTR_clus
 tering_result_traj_4.pdf
 
 pdfTeX warning: pdflatex (file ./ACTR_clustering_result_traj_4.pdf): PDF inclus
@@ -1198,55 +1197,55 @@ ion: multiple pdfs with page group included in a single page
 pdfTeX warning: pdflatex (file ./ACTR_clustering_result_traj_6.pdf): PDF inclus
 ion: multiple pdfs with page group included in a single page
 >]
-<MYC_traj_1.png, id=1216, 5352.99875pt x 3011.25pt>
+<MYC_traj_1.png, id=1222, 5352.99875pt x 3011.25pt>
 File: MYC_traj_1.png Graphic file (type png)
 <use MYC_traj_1.png>
-Package pdftex.def Info: MYC_traj_1.png  used on input line 305.
+Package pdftex.def Info: MYC_traj_1.png  used on input line 350.
 (pdftex.def)             Requested size: 133.07489pt x 113.4454pt.
-<MYC_clustering_result_traj_1.pdf, id=1218, 693.59125pt x 75.70659pt>
+<MYC_clustering_result_traj_1.pdf, id=1224, 693.59125pt x 75.70659pt>
 File: MYC_clustering_result_traj_1.pdf Graphic file (type pdf)
 <use MYC_clustering_result_traj_1.pdf>
 Package pdftex.def Info: MYC_clustering_result_traj_1.pdf  used on input line 3
-05.
+50.
 (pdftex.def)             Requested size: 310.50357pt x 33.8932pt.
 
-Overfull \hbox (7.83324pt too wide) in paragraph at lines 305--305
+Overfull \hbox (7.83324pt too wide) in paragraph at lines 350--350
  [][] 
  []
 
-<MYC_traj_2.png, id=1219, 5352.99875pt x 3011.25pt>
+<MYC_traj_2.png, id=1225, 5352.99875pt x 3011.25pt>
 File: MYC_traj_2.png Graphic file (type png)
 <use MYC_traj_2.png>
-Package pdftex.def Info: MYC_traj_2.png  used on input line 308.
+Package pdftex.def Info: MYC_traj_2.png  used on input line 353.
 (pdftex.def)             Requested size: 133.07489pt x 113.4454pt.
-<MYC_clustering_result_traj_2.pdf, id=1221, 693.59125pt x 75.70659pt>
+<MYC_clustering_result_traj_2.pdf, id=1227, 693.59125pt x 75.70659pt>
 File: MYC_clustering_result_traj_2.pdf Graphic file (type pdf)
 <use MYC_clustering_result_traj_2.pdf>
 Package pdftex.def Info: MYC_clustering_result_traj_2.pdf  used on input line 3
-08.
+53.
 (pdftex.def)             Requested size: 310.50357pt x 33.8932pt.
 
-Overfull \hbox (7.83324pt too wide) in paragraph at lines 308--308
+Overfull \hbox (7.83324pt too wide) in paragraph at lines 353--353
  [][] 
  []
 
-<MYC_traj_3.png, id=1222, 5352.99875pt x 3011.25pt>
+<MYC_traj_3.png, id=1228, 5352.99875pt x 3011.25pt>
 File: MYC_traj_3.png Graphic file (type png)
 <use MYC_traj_3.png>
-Package pdftex.def Info: MYC_traj_3.png  used on input line 311.
+Package pdftex.def Info: MYC_traj_3.png  used on input line 356.
 (pdftex.def)             Requested size: 133.07489pt x 113.4454pt.
-<MYC_clustering_result_traj_3.pdf, id=1224, 693.59125pt x 75.70659pt>
+<MYC_clustering_result_traj_3.pdf, id=1230, 693.59125pt x 75.70659pt>
 File: MYC_clustering_result_traj_3.pdf Graphic file (type pdf)
 <use MYC_clustering_result_traj_3.pdf>
 Package pdftex.def Info: MYC_clustering_result_traj_3.pdf  used on input line 3
-11.
+56.
 (pdftex.def)             Requested size: 310.50357pt x 33.8932pt.
 
-Overfull \hbox (7.83324pt too wide) in paragraph at lines 311--311
+Overfull \hbox (7.83324pt too wide) in paragraph at lines 356--356
  [][] 
  []
 
-[17
+[18
 
  <./MYC_traj_1.png> <./MYC_traj_2.png> <./MYC_traj_3.png> <./MYC_clustering_res
 ult_traj_1.pdf> <./MYC_clustering_result_traj_2.pdf
@@ -1258,53 +1257,56 @@ on: multiple pdfs with page group included in a single page
 pdfTeX warning: pdflatex (file ./MYC_clustering_result_traj_3.pdf): PDF inclusi
 on: multiple pdfs with page group included in a single page
 >]
-<MYC_traj_4.png, id=1319, 5352.99875pt x 3011.25pt>
+<MYC_traj_4.png, id=1325, 5352.99875pt x 3011.25pt>
 File: MYC_traj_4.png Graphic file (type png)
 <use MYC_traj_4.png>
-Package pdftex.def Info: MYC_traj_4.png  used on input line 320.
+Package pdftex.def Info: MYC_traj_4.png  used on input line 365.
 (pdftex.def)             Requested size: 133.07489pt x 113.4454pt.
-<MYC_clustering_result_traj_4.pdf, id=1321, 693.59125pt x 75.70659pt>
+<MYC_clustering_result_traj_4.pdf, id=1327, 693.59125pt x 75.70659pt>
 File: MYC_clustering_result_traj_4.pdf Graphic file (type pdf)
 <use MYC_clustering_result_traj_4.pdf>
 Package pdftex.def Info: MYC_clustering_result_traj_4.pdf  used on input line 3
-20.
+65.
 (pdftex.def)             Requested size: 310.50357pt x 33.8932pt.
 
-Overfull \hbox (7.83324pt too wide) in paragraph at lines 320--321
+Overfull \hbox (7.83324pt too wide) in paragraph at lines 365--366
 [][] 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 320--321
+Underfull \hbox (badness 10000) in paragraph at lines 365--366
 
  []
 
-(./supplement.bbl) [18
+(./supplement.bbl) [19
 
  <./MYC_traj_4.png> <./MYC_clustering_result_traj_4.pdf>] (./supplement.aux) ) 
 Here is how much of TeX's memory you used:
- 4743 strings out of 492649
- 76792 string characters out of 6129622
- 138576 words of memory out of 5000000
- 8476 multiletter control sequences out of 15000+600000
- 12750 words of font info for 49 fonts, out of 8000000 for 9000
+ 4762 strings out of 492649
+ 77036 string characters out of 6129622
+ 140610 words of memory out of 5000000
+ 8491 multiletter control sequences out of 15000+600000
+ 13989 words of font info for 53 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
  44i,9n,49p,998b,359s stack positions out of 5000i,500n,10000p,200000b,80000s
 <
 /usr/local/texlive/2018/texmf-dist/fonts/type1/public/amsfonts/cm/cmbx12.pfb></
-usr/local/texlive/2018/texmf-dist/fonts/type1/public/amsfonts/cm/cmmi10.pfb></u
-sr/local/texlive/2018/texmf-dist/fonts/type1/public/amsfonts/cm/cmmi12.pfb></us
-r/local/texlive/2018/texmf-dist/fonts/type1/public/amsfonts/cm/cmr10.pfb></usr/
-local/texlive/2018/texmf-dist/fonts/type1/public/amsfonts/cm/cmr12.pfb></usr/lo
-cal/texlive/2018/texmf-dist/fonts/type1/public/amsfonts/cm/cmr17.pfb></usr/loca
-l/texlive/2018/texmf-dist/fonts/type1/public/amsfonts/cm/cmr8.pfb></usr/local/t
-exlive/2018/texmf-dist/fonts/type1/public/amsfonts/cm/cmsy10.pfb></usr/local/te
-xlive/2018/texmf-dist/fonts/type1/public/amsfonts/cm/cmsy8.pfb></usr/local/texl
-ive/2018/texmf-dist/fonts/type1/public/amsfonts/cm/cmti12.pfb>
-Output written on supplement.pdf (18 pages, 7784875 bytes).
+usr/local/texlive/2018/texmf-dist/fonts/type1/public/amsfonts/cm/cmex10.pfb></u
+sr/local/texlive/2018/texmf-dist/fonts/type1/public/amsfonts/cm/cmmi10.pfb></us
+r/local/texlive/2018/texmf-dist/fonts/type1/public/amsfonts/cm/cmmi12.pfb></usr
+/local/texlive/2018/texmf-dist/fonts/type1/public/amsfonts/cm/cmmi8.pfb></usr/l
+ocal/texlive/2018/texmf-dist/fonts/type1/public/amsfonts/cm/cmr10.pfb></usr/loc
+al/texlive/2018/texmf-dist/fonts/type1/public/amsfonts/cm/cmr12.pfb></usr/local
+/texlive/2018/texmf-dist/fonts/type1/public/amsfonts/cm/cmr17.pfb></usr/local/t
+exlive/2018/texmf-dist/fonts/type1/public/amsfonts/cm/cmr8.pfb></usr/local/texl
+ive/2018/texmf-dist/fonts/type1/public/amsfonts/cm/cmsy10.pfb></usr/local/texli
+ve/2018/texmf-dist/fonts/type1/public/amsfonts/cm/cmsy8.pfb></usr/local/texlive
+/2018/texmf-dist/fonts/type1/public/amsfonts/cm/cmti12.pfb></usr/local/texlive/
+2018/texmf-dist/fonts/type1/public/amsfonts/symbols/msbm10.pfb>
+Output written on supplement.pdf (19 pages, 7821192 bytes).
 PDF statistics:
- 1389 PDF objects out of 1440 (max. 8388607)
- 373 compressed objects within 4 object streams
+ 1405 PDF objects out of 1440 (max. 8388607)
+ 385 compressed objects within 4 object streams
  0 named destinations out of 1000 (max. 500000)
  673 words of extra memory for PDF output out of 10000 (max. 10000000)
 

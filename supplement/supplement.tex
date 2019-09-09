@@ -26,17 +26,17 @@
 {\setlength{\labelsep}{.5em}}}
 {\end{list}}
 
-\title{Supplement Material:\\ Dynamical Decomposition on Fast-folding Proteins and Intrinsically Disordered Proteins}
+\title{Supplement Material:\\ An Investigation on How Dynamics of macromolecules Influence Their Assembly Units with a Data-driven Approach}
 
 \author
 {Wangfei Yang,$^{1,2}$ Lorenzo Boninsegna,$^{1,3}$ Wenwei Zheng$^{4}$\\ and Cecilia Clementi$^{1,3\ast}$\\
 \\
-\normalsize{$^{1}$Center for Theoretical Biological Physics, Rice University, Houston, TX 77005, USA}\\
+\normalsize{$^{1}$Center for Theoretical Biological Physics, Rice University, Houston, TX, USA}\\
 %\normalsize{Houston, TX 77005, USA}\\
-\normalsize{$^{2}$Systems, Synthetic and Physical Biology Program, Rice University, Houston, TX 77005, USA}\\
+\normalsize{$^{2}$Systems, Synthetic and Physical Biology Program, Rice University, Houston, TX, USA}\\
 %\normalsize{6100 Main St. Houston, TX 77005, USA}\\
-\normalsize{$^{3}$Department of Chemistry, Rice University, Houston, TX 77005, USA}\\
-\normalsize{$^{4}$College of Integrative Sciences and Arts, Arizona State University, Mesa, AZ 85212, USA}\\
+\normalsize{$^{3}$Department of Chemistry, Rice University, Houston, TX, USA}\\
+\normalsize{$^{4}$College of Integrative Sciences and Arts, Arizona State University, Mesa, AZ, USA}\\
 \\
 \normalsize{$^\ast$To whom correspondence should be addressed; E-mail:  cecilia@rice.edu.}
 }
@@ -47,13 +47,58 @@
 
 \maketitle
 
+\section*{S3D Work Flow Summary}
+
+The original paper of S3D algorithm has provided the entire work flow in detail\cite{Lrenzo_S3D}. But just for convenience, here a brief summary of this algorithm is provided as follow:
+
+\ \ 
+
+\hangindent=0.7cm
+1. Given sources of data {\it i.e.} the trajectories of long-equilibrium all-atom simulations, we first use {\it Time-lagged Independent Component Analysis} (TICA) to obtain a subspace with reduced dimension that preserves the long-timescale dynamics of the system\cite{TICA}. TICA is analogous to {\it Principal component analysis}, but instead of considering the directions of largest variation, it considers the directions of slowest motions. We denote the input data (not just Cartesian coordinates but also features such as backbone torsions and residue pairwise distances that are extracted form the all-atom trajectory) as ${\bf X}_{T, n}$, where T is the length of the trajectory and n is the number of features. Then we choose a lag-time, which defines the temporal shift of correlations:
+\begin{equation}
+{\bf X}_{0} = \begin{pmatrix}
+x_{1,1} & \cdots\ & x_{1,n} \\
+\vdots & & \vdots \\
+x_{T-\tau,1} & \cdots\ & x_{T-\tau,n}\\
+\end{pmatrix} \ \ 
+{\bf X}_{\tau} = \begin{pmatrix}
+x_{\tau,1} & \cdots\ & x_{\tau,n} \\
+\vdots & & \vdots \\
+x_{T,1} & \cdots\ & x_{T,n}\\
+\end{pmatrix}
+\end{equation}
+Then we calculate the correlation matrices:
+\begin{equation}
+{\bf C}_{00} = {\bf X}_{0}^{T}{\bf X}_{0} \ \ \ \ 
+{\bf C}_{0\tau} = {\bf X}_{\tau}^{T}{\bf X}_{0}
+\end{equation}
+By solving the generalized eigenvalue problem:
+\begin{equation}
+{\bf C}_{0\tau}{\bf R} = {\bf C}_{00}{\bf R}{\bf \Lambda}
+\end{equation}
+where $R$ is the eigenvector matrix, and $\Lambda$ is the diagonal matrix of eigenvalues, we can project the trajectory onto the first several TICA eigenvectors so that we can obtain a set of lower-dimensional data which we call TICA coordinates\cite{variational_approach,variational_principle}.
+
+\hangindent=0.7cm
+2. Then, we use k-means clustering to discretize the phase space (here the one spanned by the TICA eigenvectors we chose in step 1) by assigning the configurations of each time steps into different discrete states\cite{TICA_collective_variable,TICA_commute_map}. Next, we obtain the discrete trajectory as one discrete state index for each time step. Then, we build a Markov state model (MSM) upon the discrete trajectory by counting the transitions between the discrete states\cite{MSM}.
+
+\hangindent=0.7cm
+3. On the top of the MSM, we then extract the coarse-grained kinetic model to identify the metastable states (such as folded, unfolded, or intermediate state) using Hidden Markov Model (HMM) estimation. By calculating the implied timescales from the transition matrix of the MSM, we can have some sense on how many metastable states there are. After this, we build a HMM which is defined by its transition matrix ${\bf T}(\tau)$ and a membership matrix ${\bf M}_{M,K}$\cite{HMM}, where M is the number of the discrete states and K is the number of the hidden states found by maximizing the likelihood of the HMM associated with the discrete trajectory ${\bf S}_{T}$:
+\begin{equation}
+{\bf P}({\bf S}_{T}| {\bf T}(\tau),{\bf M}_{M,K})
+\end{equation}
+
+\hangindent=0.7cm
+4. After the state space is decomposed, we then perform decomposition on the structure. Here the method we use is called space time diffusion map\cite{Lrenzo_S3D,diffusion_map,diffusion_map_clustering}, with which  we can obtain the coherent domains, {\it i.e.} groups of atoms that preserve their geometric integrity under time evolution. Let ${\bf x}_{i,t} \in {\mathbb R}^{3}$ denote the position of atom i at time step t. We define the similarity matrix ${\bf W}_{t}$ of the diffusion map as:
+\begin{equation}
+{\bf W}_{t,ij} = exp(- \frac{||{\bf x}_{i,t}-{\bf x}_{j,t}||^{2}}{\epsilon})
+\end{equation}
+where $||\cdot||$ is Euclidean distance, and $\epsilon$ is a scale parameter. Then within each metastable state, we average the similarity matrices of different time steps to obtain a time-averaged similarity matrix to conduct clustering on the structure. At last, assembly units are obtained as the intersections of the coherent domains from different metastable states.
+
 \section*{Coherent Domains of Each Metastable State for 10 Fast-folding Proteins}
 
 \setlength{\parindent}{2em}
 
 The details of metastable states identification and the coherent domains of each state obtained with Space Time Diffusion Map for the 10 fast-folding proteins are provided in fig-\ref{CLN025} to fig-\ref{lambda}. For each metastable state, we plot the representative structure, which obtained by first sampling then picking the one has the minimal average RMSD with all others, on the left with different coherent domains shown in different colors. And on the right, we plot the coherent domains linearly along the heavy atom sequence, similarly, using different colors to indicate different coherent domains. Moreover, there's one fact need to be noted that the coherent domains can be discontinuous, because it is possible that in some compact conformation 2 segments of the molecule will always stay together even though they are not sequentially close. The simulation details of these 10 fast-folding proteins can be found in reference \cite{A3D_frustration}.
-
-\clearpage
 
 \subsection*{Chignolin}
 
@@ -321,7 +366,7 @@ Similar to the fast-folding proteins, in this section, we provide the details of
   \caption{\label{MYC}Coherent domains for each simulation of MYC. For the simulations under 0.1M, 0.5M and 2.0M NaCl, four coherent domains are obtained; for the simulation under 1.0M NaCl, there are six.}
 \end{figure}
 
-\bibliography{supp}
+\bibliography{bib}
 
 \bibliographystyle{Science}
 

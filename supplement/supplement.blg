@@ -2,50 +2,50 @@ This is BibTeX, Version 0.99d (TeX Live 2018)
 Capacity: max_strings=100000, hash_size=100000, hash_prime=85009
 The top-level auxiliary file: supplement.aux
 The style file: Science.bst
-Database file #1: supp.bib
-You're missing a field name---line 570 of file supp.bib
+Database file #1: bib.bib
+You're missing a field name---line 570 of file bib.bib
  : abstract = {Abstract Small-angle X-ray scattering (SAXS) was used to characterize the bacteriophage Î» N protein, a 107 residue intrinsically disordered protein (IDP) that functions as a transcriptional antitermination factor. The SAXS data were used to estimate both the average radius of gyration and the fractal dimension, a measure of the protein's internal scaling properties, under a variety of solution conditions. In the absence of denaturants, the radius of gyration was 38 Â± 3.5 Ã and the fractal dimension was 1.76 Â± 0.05, slightly larger than the value predicted for a well-solvated polymer with excluded volume (1.7). Neither the radius of gyration nor the fractal dimension changed significantly on the addition of urea, further indicating that the protein is extensively unfolded and well solvated in the absence of denaturant. The addition of NaCl or D2O was found to promote aggregation, but did not appear to affect the properties of the monomeric form. The experimental SAXS profiles were also compared with those predicted by a computational model for a random-coil polypeptide, with an adjustable solvation energy term. The experimental data were well fit to the model with the solvation energy close to zero. These results indicate that the Î» N protein is among the more expanded members of the broad class of IDPs, most likely because of its high content of charged residues and a large net charge (+15 at neutral pH). The expanded nature of the conformational ensemble may play a role in facilitating the interactions of the protein with other components of the dynamic transcriptional complex.},
  :                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                   ,
 I'm skipping whatever remains of this entry
-You've used 3 entries,
+You've used 13 entries,
             2300 wiz_defined-function locations,
-            754 strings with 6442 characters,
-and the built_in function-call counts, 719 in all, are:
-= -- 67
-> -- 36
-< -- 0
-+ -- 18
-- -- 9
-* -- 59
-:= -- 115
-add.period$ -- 5
-call.type$ -- 3
-change.case$ -- 2
+            831 strings with 8471 characters,
+and the built_in function-call counts, 3321 in all, are:
+= -- 315
+> -- 164
+< -- 1
++ -- 82
+- -- 41
+* -- 272
+:= -- 491
+add.period$ -- 19
+call.type$ -- 13
+change.case$ -- 6
 chr.to.int$ -- 0
-cite$ -- 3
-duplicate$ -- 35
-empty$ -- 55
-format.name$ -- 12
-if$ -- 161
+cite$ -- 13
+duplicate$ -- 159
+empty$ -- 268
+format.name$ -- 54
+if$ -- 772
 int.to.chr$ -- 0
-int.to.str$ -- 3
-missing$ -- 3
-newline$ -- 12
-num.names$ -- 3
-pop$ -- 14
+int.to.str$ -- 13
+missing$ -- 13
+newline$ -- 42
+num.names$ -- 13
+pop$ -- 63
 preamble$ -- 1
 purify$ -- 0
 quote$ -- 0
-skip$ -- 22
+skip$ -- 114
 stack$ -- 0
-substring$ -- 36
-swap$ -- 9
-text.length$ -- 0
+substring$ -- 190
+swap$ -- 47
+text.length$ -- 1
 text.prefix$ -- 0
 top$ -- 0
 type$ -- 0
 warning$ -- 0
-while$ -- 5
-width$ -- 4
-write$ -- 27
+while$ -- 27
+width$ -- 15
+write$ -- 112
 (There was 1 error message)
