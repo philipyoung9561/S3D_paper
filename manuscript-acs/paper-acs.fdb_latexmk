@@ -1,18 +1,19 @@
 # Fdb version 3
-["bibtex paper-acs"] 1568040876 "paper-acs.aux" "paper-acs.bbl" "paper-acs" 1568040881
+["bibtex paper-acs"] 1571169471 "paper-acs.aux" "paper-acs.bbl" "paper-acs" 1582059101
   "/usr/local/texlive/2018/texmf-dist/bibtex/bst/achemso/achemso.bst" 1517961817 30126 87a39f95722e880134464e035b344579 ""
-  "acs-paper-acs.bib" 1568040881 306 2ec6e2c563f7f14bcefed0d36c308168 ""
-  "bib.bib" 1567798122 69903 efa8bfa005fee43efd0c80b842fa3695 ""
-  "paper-acs.aux" 1568040881 8964 f232a5bef6407d54b42be832aa32b396 ""
+  "acs-paper-acs.bib" 1582059101 306 2ec6e2c563f7f14bcefed0d36c308168 ""
+  "bib.bib" 1571169458 72310 d1b1e6525fef47006b8a4aa80ebcbc0d ""
+  "paper-acs.aux" 1582059101 8864 4878c88abf3118d3951add327c203023 ""
   (generated)
-  "paper-acs.blg"
   "paper-acs.bbl"
-["pdflatex"] 1568040876 "paper-acs.tex" "paper-acs.pdf" "paper-acs" 1568040881
+  "paper-acs.blg"
+["pdflatex"] 1582059095 "paper-acs.tex" "paper-acs.pdf" "paper-acs" 1582059101
   "/usr/local/texlive/2018/texmf-dist/fonts/map/fontname/texfonts.map" 1511824771 3332 103109f5612ad95229751940c61aada0 ""
   "/usr/local/texlive/2018/texmf-dist/fonts/tfm/public/amsfonts/cmextra/cmex7.tfm" 1480098698 1004 54797486969f23fa377b128694d548df ""
   "/usr/local/texlive/2018/texmf-dist/fonts/tfm/public/amsfonts/cmextra/cmex8.tfm" 1480098698 988 bdf658c3bfc2d96d3c8b02cfc1c94c20 ""
   "/usr/local/texlive/2018/texmf-dist/fonts/tfm/public/cm/cmbx10.tfm" 1480098701 1328 c834bbb027764024c09d3d2bf908b5f0 ""
   "/usr/local/texlive/2018/texmf-dist/fonts/tfm/public/cm/cmbx12.tfm" 1480098701 1324 c910af8c371558dc20f2d7822f66fe64 ""
+  "/usr/local/texlive/2018/texmf-dist/fonts/tfm/public/cm/cmbx8.tfm" 1480098701 1332 1fde11373e221473104d6cc5993f046e ""
   "/usr/local/texlive/2018/texmf-dist/fonts/tfm/public/cm/cmex10.tfm" 1480098701 992 662f679a0b3d2d53c1b94050fdaa3f50 ""
   "/usr/local/texlive/2018/texmf-dist/fonts/tfm/public/cm/cmmi12.tfm" 1480098701 1524 4414a8315f39513458b80dfc63bff03a ""
   "/usr/local/texlive/2018/texmf-dist/fonts/tfm/public/cm/cmmi6.tfm" 1480098701 1512 f21f83efb36853c0b70002322c1ab3ad ""
@@ -32,6 +33,7 @@
   "/usr/local/texlive/2018/texmf-dist/fonts/tfm/public/cm/cmti12.tfm" 1480098701 1484 ed72f8f5cf654cda15ecc8e32bfcbee5 ""
   "/usr/local/texlive/2018/texmf-dist/fonts/type1/public/amsfonts/cm/cmbx10.pfb" 1480098733 34811 78b52f49e893bcba91bd7581cdc144c0 ""
   "/usr/local/texlive/2018/texmf-dist/fonts/type1/public/amsfonts/cm/cmbx12.pfb" 1480098733 32080 340ef9bf63678554ee606688e7b5339d ""
+  "/usr/local/texlive/2018/texmf-dist/fonts/type1/public/amsfonts/cm/cmbx8.pfb" 1480098733 32166 b0c356b15f19587482a9217ce1d8fa67 ""
   "/usr/local/texlive/2018/texmf-dist/fonts/type1/public/amsfonts/cm/cmmi10.pfb" 1480098733 36299 5f9df58c2139e7edcf37c8fca4bd384d ""
   "/usr/local/texlive/2018/texmf-dist/fonts/type1/public/amsfonts/cm/cmmi12.pfb" 1480098733 36741 fa121aac0049305630cf160b86157ee4 ""
   "/usr/local/texlive/2018/texmf-dist/fonts/type1/public/amsfonts/cm/cmmi8.pfb" 1480098733 35469 70d41d2b9ea31d5d813066df7c99281c ""
@@ -120,12 +122,12 @@
   "UVF_contact_HMM_3_state_2_10TICA.png" 1557695111 14094 1834484a98aa7fa5f6ed92cddea2d840 ""
   "UVF_homeodomain_beads.png" 1557175362 657345 128f9194afa9c123f4cb2ca8bfbabe57 ""
   "lambda_repressor_beads.png" 1556247690 313672 82743480cc25c447263b93cad92e7edd ""
-  "paper-acs.aux" 1568040881 8964 f232a5bef6407d54b42be832aa32b396 ""
-  "paper-acs.bbl" 1568040876 15721 83a8cac9fa670150a6cd2742ef9b72e7 "bibtex paper-acs"
-  "paper-acs.tex" 1568040870 25925 c4d21894ab286842de0548c4fdd47247 ""
+  "paper-acs.aux" 1582059101 8864 4878c88abf3118d3951add327c203023 ""
+  "paper-acs.bbl" 1571169471 15275 a7788ded726f3821382950f7c7a175b1 "bibtex paper-acs"
+  "paper-acs.tex" 1582059094 25926 d3320771eb73bb690fcfd1d888b2eb57 ""
   "stat_size_color.pdf" 1563302562 19865 7c7522c84c8e705f010dd82ded307e03 ""
   (generated)
-  "paper-acs.pdf"
   "acs-paper-acs.bib"
-  "paper-acs.log"
+  "paper-acs.pdf"
   "paper-acs.aux"
+  "paper-acs.log"

@@ -1,12 +1,12 @@
 # Fdb version 3
-["bibtex paper"] 1563556135 "paper.aux" "paper.bbl" "paper" 1563556140
+["bibtex paper"] 1567544720 "paper.aux" "paper.bbl" "paper" 1567544720
   "./Science.bst" 1290002992 26882 d44ba44187a978cfea85a3cd97387589 ""
-  "bib.bib" 1563556131 58443 55d6c4d107ced9ed413d4b32a51ae81f ""
+  "bib.bib" 1563557320 58445 67b8d39dc4d89cfbc20893afe156d7ba ""
   "paper.aux" 1563556140 4923 7baa72db19878eb157220b5045cf6c0d ""
   (generated)
   "paper.blg"
   "paper.bbl"
-["pdflatex"] 1563556135 "paper.tex" "paper.pdf" "paper" 1563556140
+["pdflatex"] 1563556135 "paper.tex" "paper.pdf" "paper" 1567544720
   "/usr/local/texlive/2018/texmf-dist/fonts/enc/dvips/base/8r.enc" 1480098666 4850 80dc9bab7f31fb78a000ccfed0e27cab ""
   "/usr/local/texlive/2018/texmf-dist/fonts/map/fontname/texfonts.map" 1511824771 3332 103109f5612ad95229751940c61aada0 ""
   "/usr/local/texlive/2018/texmf-dist/fonts/tfm/adobe/times/ptmb7t.tfm" 1480098689 2172 fd0c924230362ff848a33632ed45dc23 ""
@@ -114,7 +114,7 @@
   "UVF_homeodomain_beads.png" 1557175362 657345 128f9194afa9c123f4cb2ca8bfbabe57 ""
   "lambda_repressor_beads.png" 1556247690 313672 82743480cc25c447263b93cad92e7edd ""
   "paper.aux" 1563556140 4923 7baa72db19878eb157220b5045cf6c0d ""
-  "paper.bbl" 1563556135 3130 4e210dd9f8f1d5d9c76159172b3ffee3 "bibtex paper"
+  "paper.bbl" 1567544720 3130 4e210dd9f8f1d5d9c76159172b3ffee3 "bibtex paper"
   "paper.tex" 1563555898 26988 b07ffbb544f82a4c9beec8cd03a22622 ""
   "scicite.sty" 1290002992 21940 f3b9f4a675770828af17c69b198998fc ""
   "stat_size_color.pdf" 1563302562 19865 7c7522c84c8e705f010dd82ded307e03 ""
