@@ -1,13 +1,13 @@
 # Fdb version 3
-["bibtex paper-acs"] 1571169471 "paper-acs.aux" "paper-acs.bbl" "paper-acs" 1582059101
+["bibtex paper-acs"] 1571169471 "paper-acs.aux" "paper-acs.bbl" "paper-acs" 1585752388
   "/usr/local/texlive/2018/texmf-dist/bibtex/bst/achemso/achemso.bst" 1517961817 30126 87a39f95722e880134464e035b344579 ""
-  "acs-paper-acs.bib" 1582059101 306 2ec6e2c563f7f14bcefed0d36c308168 ""
+  "acs-paper-acs.bib" 1585752388 306 2ec6e2c563f7f14bcefed0d36c308168 ""
   "bib.bib" 1571169458 72310 d1b1e6525fef47006b8a4aa80ebcbc0d ""
-  "paper-acs.aux" 1582059101 8864 4878c88abf3118d3951add327c203023 ""
+  "paper-acs.aux" 1585752388 8864 4878c88abf3118d3951add327c203023 ""
   (generated)
   "paper-acs.bbl"
   "paper-acs.blg"
-["pdflatex"] 1582059095 "paper-acs.tex" "paper-acs.pdf" "paper-acs" 1582059101
+["pdflatex"] 1585752382 "paper-acs.tex" "paper-acs.pdf" "paper-acs" 1585752388
   "/usr/local/texlive/2018/texmf-dist/fonts/map/fontname/texfonts.map" 1511824771 3332 103109f5612ad95229751940c61aada0 ""
   "/usr/local/texlive/2018/texmf-dist/fonts/tfm/public/amsfonts/cmextra/cmex7.tfm" 1480098698 1004 54797486969f23fa377b128694d548df ""
   "/usr/local/texlive/2018/texmf-dist/fonts/tfm/public/amsfonts/cmextra/cmex8.tfm" 1480098698 988 bdf658c3bfc2d96d3c8b02cfc1c94c20 ""
@@ -122,12 +122,12 @@
   "UVF_contact_HMM_3_state_2_10TICA.png" 1557695111 14094 1834484a98aa7fa5f6ed92cddea2d840 ""
   "UVF_homeodomain_beads.png" 1557175362 657345 128f9194afa9c123f4cb2ca8bfbabe57 ""
   "lambda_repressor_beads.png" 1556247690 313672 82743480cc25c447263b93cad92e7edd ""
-  "paper-acs.aux" 1582059101 8864 4878c88abf3118d3951add327c203023 ""
+  "paper-acs.aux" 1585752388 8864 4878c88abf3118d3951add327c203023 ""
   "paper-acs.bbl" 1571169471 15275 a7788ded726f3821382950f7c7a175b1 "bibtex paper-acs"
-  "paper-acs.tex" 1582059094 25926 d3320771eb73bb690fcfd1d888b2eb57 ""
+  "paper-acs.tex" 1585752382 25860 5219cc987ff5b7bd569190f42a0e584e ""
   "stat_size_color.pdf" 1563302562 19865 7c7522c84c8e705f010dd82ded307e03 ""
   (generated)
   "acs-paper-acs.bib"
-  "paper-acs.pdf"
-  "paper-acs.aux"
   "paper-acs.log"
+  "paper-acs.aux"
+  "paper-acs.pdf"
